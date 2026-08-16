@@ -115,7 +115,7 @@
             "last_commit": "2026-07-16T08:20:43Z",
             "owner": "Hugo-Dz",
             "repo": "spritefusion-pixel-snapper",
-            "stars": 2979
+            "stars": 2983
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-07T16:43:39Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 75666
+            "stars": 75676
           }
         },
         {
@@ -227,10 +227,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T06:55:57Z",
+            "last_commit": "2026-08-15T23:14:12Z",
             "owner": "bkaradzic",
             "repo": "bgfx",
-            "stars": 17399
+            "stars": 17403
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-08-07T15:23:47Z",
             "owner": "heroiclabs",
             "repo": "nakama",
-            "stars": 13162
+            "stars": 13169
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-09T15:23:08Z",
             "owner": "skypjack",
             "repo": "entt",
-            "stars": 13015
+            "stars": 13020
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T12:48:00Z",
+            "last_commit": "2026-08-15T23:52:42Z",
             "owner": "boardgameio",
             "repo": "boardgame.io",
-            "stars": 12398
+            "stars": 12400
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-08T02:06:24Z",
             "owner": "Immediate-Mode-UI",
             "repo": "Nuklear",
-            "stars": 11323
+            "stars": 11321
           }
         },
         {
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-14T21:37:32Z",
+            "last_commit": "2026-08-16T16:53:25Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10723
+            "stars": 10724
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-07-01T14:39:51Z",
             "owner": "AlmasB",
             "repo": "FXGL",
-            "stars": 4841
+            "stars": 4842
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-05T07:22:42Z",
             "owner": "not-fl3",
             "repo": "macroquad",
-            "stars": 4580
+            "stars": 4583
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-12T03:35:50Z",
             "owner": "DiligentGraphics",
             "repo": "DiligentEngine",
-            "stars": 4393
+            "stars": 4396
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-08-14T00:50:23Z",
             "owner": "nem0",
             "repo": "LumixEngine",
-            "stars": 3864
+            "stars": 3865
           }
         },
         {
@@ -412,7 +412,21 @@
             "last_commit": "2026-07-14T12:51:42Z",
             "owner": "ColleagueRiley",
             "repo": "RGFW",
-            "stars": 1863
+            "stars": 1864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":tada: Codename One",
+          "description": "Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-16T16:53:14Z",
+            "owner": "codenameone",
+            "repo": "CodenameOne",
+            "stars": 1860
           }
         },
         {
@@ -437,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T05:36:15Z",
+            "last_commit": "2026-08-16T02:42:35Z",
             "owner": "axmolengine",
             "repo": "axmol",
             "stars": 1434
@@ -451,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T15:37:44Z",
+            "last_commit": "2026-08-16T01:49:52Z",
             "owner": "ikpil",
             "repo": "DotRecast",
             "stars": 931
@@ -703,7 +717,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T14:50:06Z",
+            "last_commit": "2026-08-16T00:46:56Z",
             "owner": "ikpil",
             "repo": "Box2D.NET",
             "stars": 204
@@ -759,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T14:12:08Z",
+            "last_commit": "2026-08-16T12:35:33Z",
             "owner": "vanyle",
             "repo": "vectarine",
             "stars": 133
@@ -787,7 +801,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:34:06Z",
+            "last_commit": "2026-08-15T18:38:04Z",
             "owner": "ArtyProf",
             "repo": "steamworks-ffi-node",
             "stars": 74
@@ -891,10 +905,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T17:59:31Z",
+            "last_commit": "2026-08-16T13:11:57Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3894
+            "stars": 3907
           }
         },
         {
@@ -961,7 +975,7 @@
             "last_commit": "2026-08-10T09:19:53Z",
             "owner": "BleuBleu",
             "repo": "FamiStudio",
-            "stars": 1927
+            "stars": 1928
           }
         },
         {
@@ -1000,7 +1014,7 @@
             "last_commit": "2024-05-24T13:18:59Z",
             "owner": "id-Software",
             "repo": "DOOM",
-            "stars": 19387
+            "stars": 19397
           }
         },
         {
@@ -1014,7 +1028,7 @@
             "last_commit": "2026-08-01T16:36:18Z",
             "owner": "OpenRA",
             "repo": "OpenRA",
-            "stars": 17228
+            "stars": 17232
           }
         },
         {
@@ -1042,7 +1056,7 @@
             "last_commit": "2026-08-15T04:59:50Z",
             "owner": "OpenTTD",
             "repo": "OpenTTD",
-            "stars": 8171
+            "stars": 8174
           }
         },
         {
@@ -1084,7 +1098,7 @@
             "last_commit": "2024-06-15T17:16:08Z",
             "owner": "id-Software",
             "repo": "Quake",
-            "stars": 6009
+            "stars": 6010
           }
         },
         {
@@ -1095,10 +1109,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T12:45:03Z",
+            "last_commit": "2026-08-16T16:37:17Z",
             "owner": "NetHack",
             "repo": "NetHack",
-            "stars": 3863
+            "stars": 3866
           }
         },
         {
@@ -1126,7 +1140,7 @@
             "last_commit": "2023-12-05T19:48:59Z",
             "owner": "id-Software",
             "repo": "Quake-2",
-            "stars": 3319
+            "stars": 3320
           }
         },
         {
@@ -1140,7 +1154,7 @@
             "last_commit": "2012-02-06T16:40:38Z",
             "owner": "id-Software",
             "repo": "wolf3d",
-            "stars": 2518
+            "stars": 2520
           }
         },
         {
@@ -1196,7 +1210,7 @@
             "last_commit": "2026-08-14T12:16:58Z",
             "owner": "Scottcjn",
             "repo": "legend-of-elya-n64",
-            "stars": 131
+            "stars": 130
           }
         }
       ],
@@ -1209,9 +1223,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:55:39.816Z",
+    "last_updated": "2026-08-16T16:56:36.181Z",
     "original_repository": "ellisonleao/magictools",
-    "original_repository_sha": "35ce491bb3b76eb7e4db622943c4160715b69a49",
+    "original_repository_sha": "45fa3a668e25cc4cfe11331496525ba9f952c0ee",
     "enhanced_repository": "enhansome/enhansome-magictools",
     "enhanced_repository_description": null,
     "title": "Awesome magictools with stars"
