@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-12T20:39:21Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25307
+                "stars": 25308
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-06T15:27:03Z",
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 5837
+                "stars": 5839
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-19T11:39:50Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75728
+                "stars": 75733
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-08-17T07:46:27Z",
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10727
+                "stars": 10726
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-07-01T14:39:51Z",
                 "owner": "AlmasB",
                 "repo": "FXGL",
-                "stars": 4844
+                "stars": 4845
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-07-14T12:51:42Z",
                 "owner": "ColleagueRiley",
                 "repo": "RGFW",
-                "stars": 1864
+                "stars": 1863
               }
             },
             {
@@ -453,7 +453,7 @@
                 "archived": false,
                 "id": 32973467,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:32:35Z",
+                "last_commit": "2026-08-19T16:15:24Z",
                 "owner": "codenameone",
                 "repo": "CodenameOne",
                 "stars": 1860
@@ -471,7 +471,7 @@
                 "last_commit": "2023-01-04T11:38:14Z",
                 "owner": "PixelVision8",
                 "repo": "PixelVision8",
-                "stars": 1777
+                "stars": 1776
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2016-05-29T03:58:27Z",
                 "owner": "ajhager",
                 "repo": "engi",
-                "stars": 393
+                "stars": 394
               }
             },
             {
@@ -791,6 +791,21 @@
             },
             {
               "node_type": "item",
+              "title": ":free: :tada: Folded Paper Engine",
+              "description": "Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062253182,
+                "language": "GDScript",
+                "last_commit": "2026-07-20T12:50:35Z",
+                "owner": "papercraftgames",
+                "repo": "folded-paper-engine",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
               "title": ":tada: Juno",
               "description": "Framework for making 2D games with chunky pixels in Lua",
               "children": [],
@@ -802,21 +817,6 @@
                 "owner": "rxi",
                 "repo": "juno",
                 "stars": 169
-              }
-            },
-            {
-              "node_type": "item",
-              "title": ":free: :tada: Folded Paper Engine",
-              "description": "Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1062253182,
-                "language": "GDScript",
-                "last_commit": "2026-07-20T12:50:35Z",
-                "owner": "papercraftgames",
-                "repo": "folded-paper-engine",
-                "stars": 168
               }
             },
             {
@@ -1089,7 +1089,7 @@
                 "last_commit": "2024-05-24T13:18:59Z",
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19421
+                "stars": 19422
               }
             },
             {
@@ -1191,7 +1191,7 @@
                 "archived": false,
                 "id": 47593546,
                 "language": "C",
-                "last_commit": "2026-08-19T11:40:03Z",
+                "last_commit": "2026-08-19T16:37:18Z",
                 "owner": "NetHack",
                 "repo": "NetHack",
                 "stars": 3870
@@ -1254,7 +1254,7 @@
                 "last_commit": "2026-06-18T12:20:23Z",
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
-                "stars": 2193
+                "stars": 2194
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "archived": false,
                 "id": 1168838598,
                 "language": "C",
-                "last_commit": "2026-08-14T12:16:58Z",
+                "last_commit": "2026-08-19T16:48:31Z",
                 "owner": "Scottcjn",
                 "repo": "legend-of-elya-n64",
                 "stars": 129
@@ -1312,7 +1312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:03.286Z",
+    "last_updated": "2026-08-19T16:59:11.176Z",
     "original_repository": "ellisonleao/magictools",
     "original_repository_id": 21958186,
     "original_repository_sha": "c18f379960f11112632dd8f2cc05de98a1c6ddaf",
