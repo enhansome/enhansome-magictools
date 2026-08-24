@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":free: Matcaps",
+              "description": "A Huge library of matcap textures in PNG and ZMT, organized by color.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223796982,
+                "language": "JavaScript",
+                "last_commit": "2025-10-13T20:11:43Z",
+                "owner": "nidorx",
+                "repo": "matcaps",
+                "stars": 3337
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Assets/Placeholders"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: Libgdx Texture Packer",
               "description": "Texture Packer built into Libgdx",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-23T07:59:23Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25327
+                "stars": 25330
               }
             },
             {
@@ -84,7 +106,7 @@
                 "last_commit": "2026-08-06T15:27:03Z",
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 5847
+                "stars": 5848
               }
             },
             {
@@ -111,6 +133,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":tada: Pixel Composer",
+              "description": "Powerful node-based VFX editor for pixel art",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447462104,
+                "language": "Game Maker Language",
+                "last_commit": "2026-08-15T02:14:35Z",
+                "owner": "Ttanasart-pt",
+                "repo": "Pixel-Composer",
+                "stars": 1348
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: Sprite Fusion Pixel Art Cleaner",
               "description": "Convert messy AI-generated pixel art into true, pixel-perfect pixel art. Source",
               "children": [],
@@ -121,7 +165,7 @@
                 "last_commit": "2026-07-16T08:20:43Z",
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3065
+                "stars": 3071
               }
             },
             {
@@ -163,6 +207,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":free: Canvascript",
+              "description": "A tool for creating HTML canvas graphics without writing code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854957207,
+                "language": "JavaScript",
+                "last_commit": "2025-06-16T06:53:35Z",
+                "owner": "VGBijpuria",
+                "repo": "Canvascript",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Modeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: goxel",
               "description": null,
               "children": [],
@@ -173,7 +239,7 @@
                 "last_commit": "2026-07-26T03:18:33Z",
                 "owner": "guillaumechereau",
                 "repo": "goxel",
-                "stars": 3182
+                "stars": 3183
               }
             },
             {
@@ -216,7 +282,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75831
+                "stars": 75842
               }
             },
             {
@@ -231,7 +297,7 @@
                 "last_commit": "2026-08-12T07:32:03Z",
                 "owner": "kitao",
                 "repo": "pyxel",
-                "stars": 17758
+                "stars": 17767
               }
             },
             {
@@ -246,7 +312,7 @@
                 "last_commit": "2026-08-23T04:44:44Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17428
+                "stars": 17429
               }
             },
             {
@@ -258,10 +324,10 @@
                 "archived": false,
                 "id": 78869430,
                 "language": "Go",
-                "last_commit": "2026-08-21T16:41:52Z",
+                "last_commit": "2026-08-24T11:19:07Z",
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13200
+                "stars": 13206
               }
             },
             {
@@ -276,7 +342,7 @@
                 "last_commit": "2026-08-09T15:23:08Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13039
+                "stars": 13045
               }
             },
             {
@@ -291,7 +357,7 @@
                 "last_commit": "2026-08-18T21:25:56Z",
                 "owner": "boardgameio",
                 "repo": "boardgame.io",
-                "stars": 12410
+                "stars": 12412
               }
             },
             {
@@ -306,7 +372,7 @@
                 "last_commit": "2026-08-08T02:06:24Z",
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11338
+                "stars": 11340
               }
             },
             {
@@ -321,7 +387,7 @@
                 "last_commit": "2026-08-20T13:27:01Z",
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10729
+                "stars": 10731
               }
             },
             {
@@ -351,7 +417,7 @@
                 "last_commit": "2026-07-01T14:39:51Z",
                 "owner": "AlmasB",
                 "repo": "FXGL",
-                "stars": 4847
+                "stars": 4849
               }
             },
             {
@@ -366,7 +432,7 @@
                 "last_commit": "2026-08-18T09:37:35Z",
                 "owner": "not-fl3",
                 "repo": "macroquad",
-                "stars": 4590
+                "stars": 4591
               }
             },
             {
@@ -393,10 +459,10 @@
                 "archived": false,
                 "id": 14590125,
                 "language": "C++",
-                "last_commit": "2026-08-22T19:11:27Z",
+                "last_commit": "2026-08-23T22:34:18Z",
                 "owner": "nem0",
                 "repo": "LumixEngine",
-                "stars": 3870
+                "stars": 3869
               }
             },
             {
@@ -453,7 +519,7 @@
                 "archived": false,
                 "id": 32973467,
                 "language": "Java",
-                "last_commit": "2026-08-23T16:54:55Z",
+                "last_commit": "2026-08-24T13:00:15Z",
                 "owner": "codenameone",
                 "repo": "CodenameOne",
                 "stars": 1861
@@ -483,10 +549,10 @@
                 "archived": false,
                 "id": 223598953,
                 "language": "C++",
-                "last_commit": "2026-08-22T12:07:14Z",
+                "last_commit": "2026-08-24T07:51:43Z",
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1441
+                "stars": 1442
               }
             },
             {
@@ -501,7 +567,7 @@
                 "last_commit": "2026-08-23T16:18:50Z",
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 932
+                "stars": 934
               }
             },
             {
@@ -636,7 +702,7 @@
                 "last_commit": "2020-12-18T22:24:39Z",
                 "owner": "Circular-Studios",
                 "repo": "Dash",
-                "stars": 424
+                "stars": 425
               }
             },
             {
@@ -726,7 +792,7 @@
                 "last_commit": "2020-12-11T23:02:26Z",
                 "owner": "blitz-research",
                 "repo": "blitz3d",
-                "stars": 290
+                "stars": 289
               }
             },
             {
@@ -828,7 +894,7 @@
                 "archived": false,
                 "id": 1106692602,
                 "language": "Rust",
-                "last_commit": "2026-08-23T13:17:54Z",
+                "last_commit": "2026-08-23T23:30:44Z",
                 "owner": "vanyle",
                 "repo": "vectarine",
                 "stars": 133
@@ -858,7 +924,7 @@
                 "archived": false,
                 "id": 1073682146,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T00:34:14Z",
+                "last_commit": "2026-08-24T00:35:07Z",
                 "owner": "ArtyProf",
                 "repo": "steamworks-ffi-node",
                 "stars": 76
@@ -948,7 +1014,7 @@
                 "archived": false,
                 "id": 464585208,
                 "language": "C++",
-                "last_commit": "2026-08-17T07:22:48Z",
+                "last_commit": "2026-08-24T06:21:29Z",
                 "owner": "AsaiYusuke",
                 "repo": "6502_test_executor",
                 "stars": 13
@@ -970,10 +1036,10 @@
                 "archived": false,
                 "id": 959123498,
                 "language": "C#",
-                "last_commit": "2026-08-23T11:39:59Z",
+                "last_commit": "2026-08-24T02:38:25Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 3967
+                "stars": 3973
               }
             },
             {
@@ -1079,6 +1145,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "awesome-gametalks",
+              "description": "A curated list of game talks (GDC, youtube, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29001594,
+                "language": null,
+                "last_commit": "2024-05-09T00:58:26Z",
+                "owner": "hzoo",
+                "repo": "awesome-gametalks",
+                "stars": 1180
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Videos/Podcasts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: Doom",
               "description": null,
               "children": [],
@@ -1089,7 +1177,7 @@
                 "last_commit": "2024-05-24T13:18:59Z",
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19453
+                "stars": 19454
               }
             },
             {
@@ -1101,10 +1189,25 @@
                 "archived": false,
                 "id": 959908,
                 "language": "C#",
-                "last_commit": "2026-08-23T15:51:01Z",
+                "last_commit": "2026-08-23T20:58:22Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17269
+                "stars": 17273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":tada: OpenTTD",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128430621,
+                "language": "C++",
+                "last_commit": "2026-08-24T05:21:44Z",
+                "owner": "OpenTTD",
+                "repo": "OpenTTD",
+                "stars": 8201
               }
             },
             {
@@ -1119,22 +1222,7 @@
                 "last_commit": "2024-08-02T00:20:36Z",
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8200
-              }
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: OpenTTD",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 128430621,
-                "language": "C++",
-                "last_commit": "2026-08-23T05:05:35Z",
-                "owner": "OpenTTD",
-                "repo": "OpenTTD",
-                "stars": 8194
+                "stars": 8201
               }
             },
             {
@@ -1179,7 +1267,7 @@
                 "last_commit": "2024-06-15T17:16:08Z",
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6021
+                "stars": 6023
               }
             },
             {
@@ -1191,7 +1279,7 @@
                 "archived": false,
                 "id": 47593546,
                 "language": "C",
-                "last_commit": "2026-08-22T14:45:03Z",
+                "last_commit": "2026-08-24T11:45:04Z",
                 "owner": "NetHack",
                 "repo": "NetHack",
                 "stars": 3876
@@ -1254,7 +1342,7 @@
                 "last_commit": "2026-06-18T12:20:23Z",
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
-                "stars": 2193
+                "stars": 2194
               }
             },
             {
@@ -1284,7 +1372,7 @@
                 "last_commit": "2026-02-10T20:58:09Z",
                 "owner": "SimHacker",
                 "repo": "micropolis",
-                "stars": 1094
+                "stars": 1095
               }
             },
             {
@@ -1309,10 +1397,60 @@
         }
       ],
       "title": "Must see"
+    },
+    {
+      "description": "Online courses, tutorials, screencasts",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":free: miloyip/game-programmer",
+              "description": "A Study Path for Game Programmer :octocat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75701562,
+                "language": "Python",
+                "last_commit": "2024-03-28T01:05:23Z",
+                "owner": "miloyip",
+                "repo": "game-programmer",
+                "stars": 18695
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Game Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":free: 3D Game Shaders For Beginners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186309296,
+                "language": "C++",
+                "last_commit": "2023-06-25T21:58:57Z",
+                "owner": "lettier",
+                "repo": "3d-game-shaders-for-beginners",
+                "stars": 19853
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Graphics"
+        }
+      ],
+      "title": "Learn"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:56:38.510Z",
+    "last_updated": "2026-08-24T13:49:28.850Z",
     "original_repository": "ellisonleao/magictools",
     "original_repository_id": 21958186,
     "original_repository_sha": "c18f379960f11112632dd8f2cc05de98a1c6ddaf",
