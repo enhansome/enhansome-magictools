@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-13T20:11:43Z",
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3337
+                "stars": 3339
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-23T07:59:23Z",
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25332
+                "stars": 25334
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-06T15:27:03Z",
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 5848
+                "stars": 5849
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-07-16T08:20:43Z",
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3072
+                "stars": 3075
               }
             },
             {
@@ -282,7 +282,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75843
+                "stars": 75854
               }
             },
             {
@@ -297,7 +297,7 @@
                 "last_commit": "2026-08-12T07:32:03Z",
                 "owner": "kitao",
                 "repo": "pyxel",
-                "stars": 17765
+                "stars": 17769
               }
             },
             {
@@ -309,10 +309,10 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-23T04:44:44Z",
+                "last_commit": "2026-08-25T05:34:49Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17429
+                "stars": 17431
               }
             },
             {
@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-24T16:35:36Z",
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13045
+                "stars": 13048
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2026-08-08T02:06:24Z",
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11340
+                "stars": 11341
               }
             },
             {
@@ -387,7 +387,7 @@
                 "last_commit": "2026-08-20T13:27:01Z",
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10731
+                "stars": 10734
               }
             },
             {
@@ -432,7 +432,7 @@
                 "last_commit": "2026-08-18T09:37:35Z",
                 "owner": "not-fl3",
                 "repo": "macroquad",
-                "stars": 4591
+                "stars": 4593
               }
             },
             {
@@ -447,7 +447,7 @@
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4410
+                "stars": 4413
               }
             },
             {
@@ -459,7 +459,7 @@
                 "archived": false,
                 "id": 14590125,
                 "language": "C++",
-                "last_commit": "2026-08-23T22:34:18Z",
+                "last_commit": "2026-08-24T22:38:49Z",
                 "owner": "nem0",
                 "repo": "LumixEngine",
                 "stars": 3869
@@ -519,7 +519,7 @@
                 "archived": false,
                 "id": 32973467,
                 "language": "Java",
-                "last_commit": "2026-08-24T17:02:55Z",
+                "last_commit": "2026-08-25T05:38:34Z",
                 "owner": "codenameone",
                 "repo": "CodenameOne",
                 "stars": 1861
@@ -612,7 +612,7 @@
                 "last_commit": "2022-10-03T19:04:58Z",
                 "owner": "Planimeter",
                 "repo": "game-engine-2d",
-                "stars": 750
+                "stars": 751
               }
             },
             {
@@ -1036,7 +1036,7 @@
                 "archived": false,
                 "id": 959123498,
                 "language": "C#",
-                "last_commit": "2026-08-24T02:38:25Z",
+                "last_commit": "2026-08-24T23:55:08Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
                 "stars": 3975
@@ -1177,7 +1177,7 @@
                 "last_commit": "2024-05-24T13:18:59Z",
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19454
+                "stars": 19456
               }
             },
             {
@@ -1192,7 +1192,7 @@
                 "last_commit": "2026-08-24T17:06:44Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17275
+                "stars": 17278
               }
             },
             {
@@ -1222,7 +1222,7 @@
                 "last_commit": "2024-08-02T00:20:36Z",
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8201
+                "stars": 8202
               }
             },
             {
@@ -1267,7 +1267,7 @@
                 "last_commit": "2024-06-15T17:16:08Z",
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6024
+                "stars": 6025
               }
             },
             {
@@ -1327,7 +1327,7 @@
                 "last_commit": "2012-02-06T16:40:38Z",
                 "owner": "id-Software",
                 "repo": "wolf3d",
-                "stars": 2524
+                "stars": 2525
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2024-03-28T01:05:23Z",
                 "owner": "miloyip",
                 "repo": "game-programmer",
-                "stars": 18694
+                "stars": 18695
               }
             }
           ],
@@ -1437,7 +1437,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19853
+                "stars": 19854
               }
             }
           ],
@@ -1450,7 +1450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:08:41.713Z",
+    "last_updated": "2026-08-25T05:43:33.787Z",
     "original_repository": "ellisonleao/magictools",
     "original_repository_id": 21958186,
     "original_repository_sha": "c18f379960f11112632dd8f2cc05de98a1c6ddaf",
