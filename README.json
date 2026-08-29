@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Huge library of matcap PNG textures organized by color",
+                "homepage": null,
                 "id": 223796982,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-10-13T20:11:43Z",
+                "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3343
+                "stars": 3343,
+                "topics": [
+                  "blender-3d",
+                  "envmap",
+                  "lighting",
+                  "litsphere",
+                  "matcap",
+                  "non-photorealistic",
+                  "opengl",
+                  "shading",
+                  "texture",
+                  "threejs",
+                  "unity-3d",
+                  "webgl",
+                  "zbrush"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -35,12 +54,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop/Android/HTML5/iOS Java game development framework",
+                "homepage": "http://www.libgdx.com/",
                 "id": 5373551,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T12:35:23Z",
+                "open_issues": 340,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25342
+                "stars": 25343,
+                "topics": [
+                  "2d",
+                  "3d",
+                  "android",
+                  "cross-platform",
+                  "framework",
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "html5",
+                  "ios",
+                  "java",
+                  "libgdx",
+                  "linux",
+                  "macosx",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -51,12 +92,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High efficient and fast 2D bin packing tool",
+                "homepage": null,
                 "id": 4258691,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2016-11-05T11:51:17Z",
+                "open_issues": 9,
                 "owner": "scriptum",
                 "repo": "Cheetah-Texture-Packer",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -67,12 +113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free and open source sprite sheet creator",
+                "homepage": null,
                 "id": 451002283,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-11T02:12:25Z",
+                "open_issues": 3,
                 "owner": "z64me",
                 "repo": "EzSpriteSheet",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -83,12 +134,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tilesheet splitter in Py3",
+                "homepage": null,
                 "id": 165904175,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-27T21:11:46Z",
+                "open_issues": 0,
                 "owner": "morganholly",
                 "repo": "tilesplit",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cli-tilesheet-splitter",
+                  "image-splitting",
+                  "python",
+                  "python3",
+                  "tile",
+                  "tiles",
+                  "tilesheet"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -106,12 +170,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+                "homepage": null,
                 "id": 141905920,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T15:27:03Z",
+                "open_issues": 324,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 5863
+                "stars": 5863,
+                "topics": [
+                  "glsl",
+                  "godot-engine",
+                  "godotengine",
+                  "material-maker",
+                  "painting",
+                  "procedural-generation",
+                  "texture-synthesis",
+                  "textures"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -122,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Overlap2D Game development toolkit for UI and Level design",
+                "homepage": null,
                 "id": 30238090,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-04T08:41:36Z",
+                "open_issues": 145,
                 "owner": "UnderwaterApps",
                 "repo": "overlap2d",
-                "stars": 793
+                "stars": 793,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -145,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node base VFX editor for pixel art.",
+                "homepage": null,
                 "id": 447462104,
                 "language": "Game Maker Language",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:28:57Z",
+                "open_issues": 67,
                 "owner": "Ttanasart-pt",
                 "repo": "Pixel-Composer",
-                "stars": 1352
+                "stars": 1352,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -168,12 +256,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.",
+                "homepage": "https://www.spritefusion.com/pixel-snapper",
                 "id": 1103154605,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-16T08:20:43Z",
+                "open_issues": 0,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3097
+                "stars": 3098,
+                "topics": [
+                  "game-development",
+                  "gamedev",
+                  "image-processing",
+                  "pixel-art"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -184,12 +282,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pixel art editor for macOS and iOS",
+                "homepage": "https://pixenapp.com",
                 "id": 299107,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-09-18T23:54:20Z",
+                "open_issues": 0,
                 "owner": "Pixen",
                 "repo": "Pixen",
-                "stars": 933
+                "stars": 933,
+                "topics": [
+                  "graphics",
+                  "pixel",
+                  "pixel-art",
+                  "pixelart",
+                  "playdate"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -200,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free browser tools for pixel artists — palette extractor with .gpl/Aseprite export. Plus the SpriteWright Aseprite extensions.",
+                "homepage": null,
                 "id": 1318060462,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-05T07:09:46Z",
+                "open_issues": 0,
                 "owner": "pixelpixi",
                 "repo": "spritewright",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -223,12 +337,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it.",
+                "homepage": "https://vgbijpuria.github.io/Canvascript/",
                 "id": 854957207,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-16T06:53:35Z",
+                "open_issues": 1,
                 "owner": "VGBijpuria",
                 "repo": "Canvascript",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "canvas-api",
+                  "graphic-design",
+                  "html5",
+                  "javascript",
+                  "no-code",
+                  "performance",
+                  "web-game-dev"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -241,17 +368,61 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":free: WorldLoop",
+              "description": "Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Public technical showcase for WorldLoop procedural architecture, semantic CAD, Terrain compilation, and Roblox Studio delivery.",
+                "homepage": "https://worldloop.io",
+                "id": 1337631865,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-19T13:55:53Z",
+                "open_issues": 0,
+                "owner": "Daniele-Cangi",
+                "repo": "worldloop-technical-showcase",
+                "stars": 3,
+                "topics": [
+                  "game-development",
+                  "procedural-generation",
+                  "roblox",
+                  "roblox-studio",
+                  "semantic-cad",
+                  "terrain-generation",
+                  "world-generation"
+                ]
+              },
+              "first_seen": "2026-08-29T04:16:07.962Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terrain Generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: goxel",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Goxel: Free and Open Source 3D Voxel Editor ",
+                "homepage": null,
                 "id": 43659475,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-26T03:18:33Z",
+                "open_issues": 129,
                 "owner": "guillaumechereau",
                 "repo": "goxel",
-                "stars": 3184
+                "stars": 3184,
+                "topics": [
+                  "voxel-editors",
+                  "voxels"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -262,12 +433,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A native voxel editor for macOS, Windows, and Linux. Open, create, sculpt, and paint voxel scenes in a fast GPU-accelerated viewport.",
+                "homepage": null,
                 "id": 1196104197,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-04-18T13:56:54Z",
+                "open_issues": 0,
                 "owner": "Velfi",
                 "repo": "Voxelle-Desktop",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "art",
+                  "fun",
+                  "game",
+                  "tauri",
+                  "voxel"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -291,12 +473,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+                "homepage": null,
                 "id": 22067521,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:40:44Z",
+                "open_issues": 1239,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75917
+                "stars": 75919,
+                "topics": [
+                  "api",
+                  "cplusplus",
+                  "framework",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "gui",
+                  "imgui",
+                  "immediate-gui",
+                  "library",
+                  "multi-platform",
+                  "native",
+                  "toolkit",
+                  "tools",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -307,12 +510,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A retro game engine for Python",
+                "homepage": null,
                 "id": 136780445,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T07:32:03Z",
+                "open_issues": 9,
                 "owner": "kitao",
                 "repo": "pyxel",
-                "stars": 17780
+                "stars": 17781,
+                "topics": [
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "graphics",
+                  "html",
+                  "opengl",
+                  "pico-8",
+                  "pixel-art",
+                  "python",
+                  "pyxel",
+                  "retro-game",
+                  "rust",
+                  "tic-80",
+                  "wasm",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -323,12 +548,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+                "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
                 "id": 3925242,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-28T23:37:16Z",
+                "open_issues": 285,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17440
+                "stars": 17440,
+                "topics": [
+                  "d3d11",
+                  "d3d12",
+                  "directx",
+                  "directx-11",
+                  "directx-12",
+                  "engine",
+                  "gamedev",
+                  "gles",
+                  "glfw",
+                  "graphics",
+                  "metal",
+                  "opengl",
+                  "rendering",
+                  "sdl",
+                  "vulkan",
+                  "vulkan-api",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -339,12 +587,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.",
+                "homepage": "https://heroiclabs.com",
                 "id": 78869430,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:12:14Z",
+                "open_issues": 128,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13229
+                "stars": 13229,
+                "topics": [
+                  "backend",
+                  "cpp",
+                  "csharp",
+                  "dotnet",
+                  "game",
+                  "game-backend",
+                  "game-framework",
+                  "gamedev",
+                  "go",
+                  "godot",
+                  "javascript",
+                  "lua",
+                  "multiplayer",
+                  "nakama",
+                  "server",
+                  "typescript",
+                  "unity",
+                  "unity3d",
+                  "unreal",
+                  "unreal-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -355,12 +629,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more",
+                "homepage": "https://github.com/skypjack/entt/wiki",
                 "id": 86337343,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:32:16Z",
+                "open_issues": 11,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13057
+                "stars": 13057,
+                "topics": [
+                  "architectural-patterns",
+                  "cpp",
+                  "cpp17",
+                  "cpp20",
+                  "data-oriented",
+                  "data-oriented-design",
+                  "ecs",
+                  "ecs-framework",
+                  "entity-component-system",
+                  "entt",
+                  "game-dev",
+                  "game-development",
+                  "game-engine",
+                  "game-programming",
+                  "gamedev",
+                  "header-only",
+                  "modern-cpp",
+                  "no-dependencies",
+                  "production-ready",
+                  "reflection"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -371,12 +671,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State Management and Multiplayer Networking for Turn-Based Games",
+                "homepage": "https://boardgame.io",
                 "id": 111614342,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T21:25:56Z",
+                "open_issues": 66,
                 "owner": "boardgameio",
                 "repo": "boardgame.io",
-                "stars": 12413
+                "stars": 12413,
+                "topics": [
+                  "boardgames",
+                  "game-engine",
+                  "javascript",
+                  "multiplayer",
+                  "react",
+                  "react-native",
+                  "tabletop",
+                  "turn-based"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -387,12 +701,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+                "homepage": "https://immediate-mode-ui.github.io/Nuklear/",
                 "id": 224151065,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-08T02:06:24Z",
+                "open_issues": 316,
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11359
+                "stars": 11359,
+                "topics": [
+                  "c",
+                  "c89",
+                  "gui",
+                  "header-only",
+                  "imgui",
+                  "multiplatform",
+                  "nuklear",
+                  "single-header",
+                  "single-header-lib"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -403,12 +732,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flutter based game engine.",
+                "homepage": "https://flame-engine.org",
                 "id": 107833072,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:09:25Z",
+                "open_issues": 92,
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10733
+                "stars": 10733,
+                "topics": [
+                  "dart",
+                  "flame",
+                  "flutter",
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -419,12 +762,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rocket: 🌪 Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js",
+                "homepage": null,
                 "id": 41624627,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-01T10:46:13Z",
+                "open_issues": 55,
                 "owner": "WhitestormJS",
                 "repo": "whs.js",
-                "stars": 6349
+                "stars": 6349,
+                "topics": [
+                  "component-driven",
+                  "framework",
+                  "high-performance",
+                  "modular",
+                  "physics",
+                  "react",
+                  "scene-graph",
+                  "web-development",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -435,12 +793,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java / JavaFX / Kotlin Game Library (Engine)",
+                "homepage": "http://almasb.github.io/FXGL/",
                 "id": 32761091,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-07-01T14:39:51Z",
+                "open_issues": 162,
                 "owner": "AlmasB",
                 "repo": "FXGL",
-                "stars": 4852
+                "stars": 4852,
+                "topics": [
+                  "2d",
+                  "2d-framework",
+                  "2d-game-engine",
+                  "2d-game-framework",
+                  "3d",
+                  "3d-game-engine",
+                  "android",
+                  "framework",
+                  "fxgl",
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "ios",
+                  "java",
+                  "javafx",
+                  "jvm",
+                  "kotlin",
+                  "mobile",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -451,12 +835,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform game engine in Rust. ",
+                "homepage": null,
                 "id": 232636908,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T09:37:35Z",
+                "open_issues": 337,
                 "owner": "not-fl3",
                 "repo": "macroquad",
-                "stars": 4598
+                "stars": 4598,
+                "topics": [
+                  "android",
+                  "game-engine",
+                  "ios",
+                  "rust",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -467,12 +862,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern cross-platform low-level graphics library and rendering framework",
+                "homepage": "http://diligentgraphics.com/diligent-engine/",
                 "id": 44292772,
                 "language": "Batchfile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T20:18:01Z",
+                "open_issues": 24,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4417
+                "stars": 4417,
+                "topics": [
+                  "3d-engine",
+                  "d3d11",
+                  "d3d12",
+                  "directx",
+                  "directx11",
+                  "directx12",
+                  "gamedev",
+                  "graphics-engine",
+                  "graphics-library",
+                  "graphics-programming",
+                  "ibl",
+                  "opengl",
+                  "opengl-es",
+                  "pbr",
+                  "ray-tracing",
+                  "raytracing",
+                  "renderer",
+                  "rendering",
+                  "vulkan",
+                  "vulkan-game-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -483,12 +904,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D C++ Game Engine - yet another open source game engine",
+                "homepage": null,
                 "id": 14590125,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:27:43Z",
+                "open_issues": 35,
                 "owner": "nem0",
                 "repo": "LumixEngine",
-                "stars": 3869
+                "stars": 3869,
+                "topics": [
+                  "3d-game-engine",
+                  "data-oriented-design",
+                  "editor",
+                  "entity-component-system",
+                  "game-development",
+                  "game-engine",
+                  "linux",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -499,12 +934,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)",
+                "homepage": "https://discord.gg/sjRMQwv",
                 "id": 23690226,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T00:54:11Z",
+                "open_issues": 294,
                 "owner": "OpenXRay",
                 "repo": "xray-16",
-                "stars": 3548
+                "stars": 3548,
+                "topics": [
+                  "3d-engine",
+                  "arm64",
+                  "cmake",
+                  "cplusplus",
+                  "cpp17",
+                  "d3d11",
+                  "directx",
+                  "directx11",
+                  "engine",
+                  "game",
+                  "game-engine",
+                  "gamedev",
+                  "mod",
+                  "opengl",
+                  "opensource",
+                  "sdl",
+                  "sdl2",
+                  "stalker",
+                  "x64",
+                  "xray-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -515,12 +976,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android OpenGL ES 2.0/3.0 Engine",
+                "homepage": "https://rajawali.github.io/Rajawali/",
                 "id": 2011647,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-13T21:01:47Z",
+                "open_issues": 190,
                 "owner": "Rajawali",
                 "repo": "Rajawali",
-                "stars": 2415
+                "stars": 2415,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -531,12 +997,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight single-header cross-platform library for general windowing",
+                "homepage": null,
                 "id": 605157846,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2026-07-14T12:51:42Z",
+                "open_issues": 10,
                 "owner": "ColleagueRiley",
                 "repo": "RGFW",
-                "stars": 1864
+                "stars": 1864,
+                "topics": [
+                  "c99",
+                  "cocoa",
+                  "cross-platform",
+                  "graphics",
+                  "hedgehogsoft",
+                  "library",
+                  "lightweight",
+                  "macos",
+                  "opengl",
+                  "pure-c",
+                  "silicon",
+                  "single-header",
+                  "unix",
+                  "webasm",
+                  "winapi",
+                  "windowing",
+                  "x11",
+                  "xlib"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -547,12 +1037,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.",
+                "homepage": "https://www.codenameone.com/",
                 "id": 32973467,
                 "language": "Java",
-                "last_commit": "2026-08-28T23:15:59Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:06:15Z",
+                "open_issues": 267,
                 "owner": "codenameone",
                 "repo": "CodenameOne",
-                "stars": 1860
+                "stars": 1860,
+                "topics": [
+                  "android",
+                  "aot",
+                  "app-framework",
+                  "codename-one",
+                  "compiler",
+                  "cross-platform",
+                  "desktop",
+                  "graphics",
+                  "ios",
+                  "java",
+                  "jvm",
+                  "kotlin",
+                  "linux",
+                  "macos",
+                  "maven",
+                  "mobile-development",
+                  "pwa",
+                  "watchos",
+                  "wear-os",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -563,12 +1079,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.",
+                "homepage": "http://pixelvision8.com",
                 "id": 86911770,
                 "language": "C#",
+                "license": "MS-PL",
                 "last_commit": "2023-01-04T11:38:14Z",
+                "open_issues": 9,
                 "owner": "PixelVision8",
                 "repo": "PixelVision8",
-                "stars": 1776
+                "stars": 1776,
+                "topics": [
+                  "2d",
+                  "2d-game-engine",
+                  "8-bit",
+                  "csharp",
+                  "fantasy-console",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "games",
+                  "monogame",
+                  "pixel-vision-8",
+                  "pixelvision8",
+                  "pv8",
+                  "retrogaming",
+                  "sdk",
+                  "sprites"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -579,12 +1117,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP), WebAssembly and Mobile games.",
+                "homepage": "https://axmol.dev",
                 "id": 223598953,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:59:35Z",
+                "open_issues": 12,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1443
+                "stars": 1443,
+                "topics": [
+                  "axmol",
+                  "axmolengine",
+                  "cocos2d-x",
+                  "cpp20",
+                  "cppwinrt",
+                  "d3d",
+                  "d3d11",
+                  "d3d12",
+                  "game-engine",
+                  "metal",
+                  "opengl",
+                  "uwp",
+                  "vulkan",
+                  "xbox"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -595,12 +1153,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DotRecast - a C# port of Recast & Detour, Industry-standard navigation mesh toolset for .NET, Unity3D, games, servers",
+                "homepage": null,
                 "id": 613697580,
                 "language": "C#",
+                "license": "Zlib",
                 "last_commit": "2026-08-25T18:17:17Z",
+                "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 935
+                "stars": 935,
+                "topics": [
+                  "ai",
+                  "crowd-simulation",
+                  "csharp",
+                  "detour",
+                  "game",
+                  "game-development",
+                  "gamedev",
+                  "navigation",
+                  "navmesh",
+                  "pathfinder",
+                  "pathfinding",
+                  "recast",
+                  "recastnavigation",
+                  "server",
+                  "unity",
+                  "unity3d"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -611,12 +1191,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2D Game Engine with Lua Scripting made on top of SFML !",
+                "homepage": "https://www.obengine.io",
                 "id": 55010544,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-09T00:56:01Z",
+                "open_issues": 124,
                 "owner": "ObEngine",
                 "repo": "ObEngine",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "2d",
+                  "2d-framework",
+                  "2d-game-engine",
+                  "2d-game-framework",
+                  "cmake",
+                  "collider",
+                  "cplusplus",
+                  "cpp17",
+                  "cross-platform",
+                  "engine",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "hacktoberfest",
+                  "lua-script",
+                  "sfml",
+                  "zlib"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -627,12 +1230,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small C# game framework",
+                "homepage": null,
                 "id": 680614317,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:30:34Z",
+                "open_issues": 2,
                 "owner": "FosterFramework",
                 "repo": "Foster",
-                "stars": 857
+                "stars": 858,
+                "topics": [
+                  "2d",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "game-development",
+                  "game-engine",
+                  "game-framework",
+                  "gamedev",
+                  "graphics"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -643,12 +1261,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Planimeter Game Engine 2D - LÖVE-based game engine for Lua",
+                "homepage": "https://github.com/Planimeter/game-engine-2d/wiki",
                 "id": 25402523,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-10-03T19:04:58Z",
+                "open_issues": 4,
                 "owner": "Planimeter",
                 "repo": "game-engine-2d",
-                "stars": 751
+                "stars": 751,
+                "topics": [
+                  "2d-game-engine",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "grid-sdk",
+                  "love2d",
+                  "lua",
+                  "luajit"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -659,12 +1291,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance 2D collision detection system with realistic physics responses.",
+                "homepage": null,
                 "id": 86859902,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2021-08-01T16:38:16Z",
+                "open_issues": 22,
                 "owner": "Genbox",
                 "repo": "VelcroPhysics",
-                "stars": 744
+                "stars": 744,
+                "topics": [
+                  "physics-2d",
+                  "physics-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -675,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Classic point and click adventure game engine and editor",
+                "homepage": null,
                 "id": 18995295,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T16:41:52Z",
+                "open_issues": 18,
                 "owner": "bladecoder",
                 "repo": "bladecoder-adventure-engine",
-                "stars": 644
+                "stars": 644,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -691,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "graphic library for games and multimedia, for python language on PC-like hardware",
+                "homepage": "http://los-cocos.github.io/cocos-site/",
                 "id": 19495302,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-08T02:08:15Z",
+                "open_issues": 52,
                 "owner": "los-cocos",
                 "repo": "cocos",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -707,12 +1357,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Game engine for making 2d games on iOS, macOS and tvOS, with practical examples and tutorials",
+                "homepage": null,
                 "id": 185016938,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-12-02T11:51:18Z",
+                "open_issues": 3,
                 "owner": "cocoatoucher",
                 "repo": "Glide",
-                "stars": 506
+                "stars": 506,
+                "topics": [
+                  "2d-game-engine",
+                  "apple",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "gameplaykit",
+                  "games",
+                  "ios",
+                  "macos",
+                  "platformer",
+                  "platformer-engine",
+                  "side-scroller",
+                  "spritekit",
+                  "tiled-map-editor",
+                  "tilemap",
+                  "tvos"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -723,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iio Engine: A JavaScript game engine for HTML5 Canvas",
+                "homepage": "http://iioengine.com",
                 "id": 9337681,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-06T02:10:25Z",
+                "open_issues": 0,
                 "owner": "sbiermanlytle",
                 "repo": "iioEngine",
-                "stars": 458
+                "stars": 458,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -739,12 +1416,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free and open 3D game engine written in D.",
+                "homepage": "https://circularstudios.com/Dash",
                 "id": 15827539,
                 "language": "D",
+                "license": "MIT",
                 "last_commit": "2020-12-18T22:24:39Z",
+                "open_issues": 32,
                 "owner": "Circular-Studios",
                 "repo": "Dash",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "3d",
+                  "d",
+                  "engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -755,12 +1441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-platform 2D game library for Go.",
+                "homepage": null,
                 "id": 9862167,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2016-05-29T03:58:27Z",
+                "open_issues": 0,
                 "owner": "ajhager",
                 "repo": "engi",
-                "stars": 394
+                "stars": 394,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -771,12 +1462,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports",
+                "homepage": "https://elevationapi.com",
                 "id": 78475145,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-18T19:02:30Z",
+                "open_issues": 18,
                 "owner": "dem-net",
                 "repo": "DEM.Net",
-                "stars": 354
+                "stars": 354,
+                "topics": [
+                  "dataset",
+                  "dem",
+                  "dem-querying",
+                  "digital-elevation-model",
+                  "dtm",
+                  "elevation",
+                  "geotiff",
+                  "gltf",
+                  "gpx",
+                  "heightmap",
+                  "hgt",
+                  "jaxa",
+                  "library",
+                  "mnt",
+                  "nasa",
+                  "raster",
+                  "srtm",
+                  "stl",
+                  "stl-model"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -787,12 +1503,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance Vulkan driver with automated resource management and execution",
+                "homepage": null,
                 "id": 272821902,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:31:43Z",
+                "open_issues": 7,
                 "owner": "attackgoat",
                 "repo": "vk-graph",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "3d",
+                  "3d-game-engine",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "rust",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -803,12 +1532,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to use cross-platform 2D game library for C++",
+                "homepage": "https://bixense.com/jngl/",
                 "id": 1313517,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-08-26T21:28:18Z",
+                "open_issues": 11,
                 "owner": "jhasse",
                 "repo": "jngl",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "game-engine",
+                  "game-engine-2d",
+                  "gamedev",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "nintendo-switch",
+                  "openal",
+                  "opengl",
+                  "windows",
+                  "xbox"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -819,12 +1567,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C99 Cross Platform 2D Game Library",
+                "homepage": null,
                 "id": 183664545,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-07T05:48:17Z",
+                "open_issues": 0,
                 "owner": "tek256",
                 "repo": "astera",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "2d-game-library",
+                  "c",
+                  "cmake",
+                  "game-development",
+                  "game-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -835,12 +1594,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 16387578,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2020-12-11T23:02:26Z",
+                "open_issues": 2,
                 "owner": "blitz-research",
                 "repo": "blitz3d",
-                "stars": 289
+                "stars": 289,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -851,12 +1615,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.",
+                "homepage": "https://linktr.ee/is_daouda",
                 "id": 163519422,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2026-07-07T00:56:06Z",
+                "open_issues": 2,
                 "owner": "Is-Daouda",
                 "repo": "is-Engine",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "android",
+                  "android-studio",
+                  "box-2d",
+                  "code-blocks",
+                  "cplusplus",
+                  "cpp",
+                  "css3",
+                  "emscripten",
+                  "game-engine",
+                  "html",
+                  "html5",
+                  "ios",
+                  "nintendo-switch",
+                  "qt",
+                  "sdl",
+                  "sfml",
+                  "tmx",
+                  "visual-studio-code",
+                  "web",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -867,12 +1657,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny and easy to use ECS (Entity Component System) library for game programming",
+                "homepage": null,
                 "id": 227001013,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-02T08:26:26Z",
+                "open_issues": 17,
                 "owner": "nidorx",
                 "repo": "ecs-lib",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "data-oriented-design",
+                  "ecs",
+                  "ecs-framework",
+                  "entity-component",
+                  "entity-component-architecture",
+                  "entity-component-system",
+                  "game",
+                  "game-development",
+                  "game-engine",
+                  "game-programming",
+                  "gamedev",
+                  "gameloop",
+                  "threejs"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -883,12 +1692,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Box2D.NET - a C# port of Box2D, is a 2D physics engine for games, .NET, Unity3D, servers",
+                "homepage": null,
                 "id": 933482999,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-22T18:14:24Z",
+                "open_issues": 7,
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "2d",
+                  "2d-game",
+                  "box2d",
+                  "box2d-physics-engine",
+                  "collision",
+                  "collision-detection",
+                  "csharp",
+                  "game",
+                  "game-development",
+                  "physics",
+                  "physics-2d",
+                  "physics-engine",
+                  "physics-simulation",
+                  "rigid-body-dynamics"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -899,12 +1728,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, miniaudio, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly",
+                "homepage": "https://carimbo.games",
                 "id": 710760291,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-23T20:41:26Z",
+                "open_issues": 2,
                 "owner": "willtobyte",
                 "repo": "carimbo",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -915,12 +1749,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom Blender-to-Godot addon that makes level and gameplay creation as easy as a few clicks!",
+                "homepage": "https://foldedpaperengine.com/",
                 "id": 1062253182,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T12:50:35Z",
+                "open_issues": 8,
                 "owner": "papercraftgames",
                 "repo": "folded-paper-engine",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "blender",
+                  "engine",
+                  "game-engine",
+                  "gamedev",
+                  "games",
+                  "godot",
+                  "godot-4",
+                  "godot-addon",
+                  "godot-engine",
+                  "godot-plugin",
+                  "indie-dev",
+                  "paper-mario-style",
+                  "papercraft",
+                  "two-point-five-d"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -931,12 +1785,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Framework for making 2D games with chunky pixels in Lua",
+                "homepage": null,
                 "id": 34755559,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2016-05-12T22:26:37Z",
+                "open_issues": 5,
                 "owner": "rxi",
                 "repo": "juno",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -947,12 +1806,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free cross-platform game engine focusing on fast prototyping and having fun with Luau scripting",
+                "homepage": "https://vectarineengine.com",
                 "id": 1106692602,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-25T22:41:27Z",
+                "open_issues": 5,
                 "owner": "vanyle",
                 "repo": "vectarine",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "game-engine",
+                  "gamedev",
+                  "lua",
+                  "luau",
+                  "luau-lang",
+                  "multi-platform",
+                  "opengl",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -963,12 +1836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced physics engine library based on Chipmunk in C#",
+                "homepage": null,
                 "id": 21375299,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-03-12T16:06:39Z",
+                "open_issues": 5,
                 "owner": "netonjm",
                 "repo": "ChipmunkSharp",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -979,12 +1857,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TypeScript/JavaScript wrapper for the Steamworks SDK using Koffi FFI, designed for Node.js and Electron applications with Steamworks SDK integration.",
+                "homepage": "https://www.npmjs.com/package/steamworks-ffi-node",
                 "id": 1073682146,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T00:35:07Z",
+                "open_issues": 7,
                 "owner": "ArtyProf",
                 "repo": "steamworks-ffi-node",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "electron",
+                  "javascript",
+                  "javascript-library",
+                  "nodejs",
+                  "steam",
+                  "steam-cloud",
+                  "steam-sdk",
+                  "steam-workshop",
+                  "steamworks",
+                  "steamworks-achievements",
+                  "steamworks-js",
+                  "steamworks-node",
+                  "steamworks-sdk",
+                  "steamworks-ts",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -995,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform, realtime physics engine for all .NET apps.",
+                "homepage": null,
                 "id": 393951343,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-08-08T11:59:21Z",
+                "open_issues": 0,
                 "owner": "mattleibow",
                 "repo": "jitterphysics",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1011,12 +1915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible and powerful game making library",
+                "homepage": null,
                 "id": 19220878,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2015-10-02T02:53:39Z",
+                "open_issues": 0,
                 "owner": "Lums-proj",
                 "repo": "Lums",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1027,12 +1936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Juno is a simple and lightweight 2D game framework written in TypeScript for making tiny pixel style HTML5 Games",
+                "homepage": null,
                 "id": 147010775,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-08-09T11:46:37Z",
+                "open_issues": 0,
                 "owner": "digitsensitive",
                 "repo": "juno",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1043,12 +1957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game engine for the web using TypeScript.",
+                "homepage": null,
                 "id": 601961017,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-02T02:56:10Z",
+                "open_issues": 0,
                 "owner": "pedrozaalex",
                 "repo": "asimov-ts",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1059,12 +1978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A graphics and input wrapper library for C++",
+                "homepage": null,
                 "id": 11412135,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2015-02-06T17:08:36Z",
+                "open_issues": 6,
                 "owner": "GearChicken",
                 "repo": "MINX",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1075,12 +1999,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform unit testing tool for MOS 6502 assembly",
+                "homepage": null,
                 "id": 464585208,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:21:29Z",
+                "open_issues": 3,
                 "owner": "AsaiYusuke",
                 "repo": "6502_test_executor",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "6502",
+                  "6502-emulation",
+                  "assembly",
+                  "assembly-6502",
+                  "coverage",
+                  "coveralls",
+                  "cross-platform",
+                  "json-schema",
+                  "lcov",
+                  "nes-dev",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1098,12 +2039,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+                "homepage": "https://ai-game.dev",
                 "id": 959123498,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T23:55:08Z",
+                "open_issues": 50,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4012
+                "stars": 4012,
+                "topics": [
+                  "ai",
+                  "ai-integration",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-desktop",
+                  "cli",
+                  "copilot",
+                  "cursor",
+                  "game-development",
+                  "gamedev",
+                  "gemini",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "openai",
+                  "unity",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1114,12 +2080,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C# behaviour tree library with a fluent API",
+                "homepage": null,
                 "id": 44357557,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-01-24T15:27:04Z",
+                "open_issues": 2,
                 "owner": "ashleydavis",
                 "repo": "Fluent-Behaviour-Tree",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "game-development"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1130,12 +2103,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SimpleAI is a small C++ AI behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.",
+                "homepage": "http://www.caveproductions.org/",
                 "id": 9621305,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-16T20:58:41Z",
+                "open_issues": 11,
                 "owner": "mgerhardy",
                 "repo": "simpleai",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "behaviour-tree",
+                  "c-plus-plus",
+                  "cmake",
+                  "cpp-library",
+                  "game-development",
+                  "header-only",
+                  "lua",
+                  "qt5",
+                  "simpleai",
+                  "wireshark"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1159,12 +2148,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fasttracker II compatible music editor",
+                "homepage": "https://milkytracker.org",
                 "id": 13717004,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-22T13:14:21Z",
+                "open_issues": 86,
                 "owner": "milkytracker",
                 "repo": "MilkyTracker",
-                "stars": 2092
+                "stars": 2092,
+                "topics": [
+                  "audio",
+                  "chiptune-tracker",
+                  "multiplatform",
+                  "music",
+                  "tracker-music"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1175,12 +2175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FamiStudio NES Music Editor",
+                "homepage": null,
                 "id": 199790783,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:19:53Z",
+                "open_issues": 38,
                 "owner": "BleuBleu",
                 "repo": "FamiStudio",
-                "stars": 1934
+                "stars": 1934,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1191,12 +2196,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "modifications and improvements for 0CC-FamiTracker (based on j0CC-FamiTracker 0.6.3)",
+                "homepage": null,
                 "id": 284655420,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-14T20:20:26Z",
+                "open_issues": 137,
                 "owner": "Dn-Programming-Core-Management",
                 "repo": "Dn-FamiTracker",
-                "stars": 520
+                "stars": 520,
+                "topics": [
+                  "0cc-famitracker",
+                  "chiptune",
+                  "chiptune-tracker",
+                  "famicom",
+                  "famitracker",
+                  "nes",
+                  "nsf",
+                  "tracker"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1220,12 +2239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":speech_balloon: A curated list of gaming talks (development, design, etc)",
+                "homepage": null,
                 "id": 29001594,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-05-09T00:58:26Z",
+                "open_issues": 6,
                 "owner": "hzoo",
                 "repo": "awesome-gametalks",
-                "stars": 1180
+                "stars": 1180,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1243,12 +2267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOOM Open Source Release",
+                "homepage": null,
                 "id": 3319040,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2024-05-24T13:18:59Z",
+                "open_issues": 15,
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19475
+                "stars": 19475,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1259,12 +2288,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+                "homepage": "https://www.openra.net",
                 "id": 959908,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T11:59:17Z",
+                "open_issues": 1589,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17290
+                "stars": 17290,
+                "topics": [
+                  "command-and-conquer",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "dune-2000",
+                  "engine",
+                  "game",
+                  "game-engine",
+                  "hacktoberfest",
+                  "openra",
+                  "real-time-strategy",
+                  "red-alert",
+                  "rts",
+                  "strategy-game-engine",
+                  "tiberian-dawn"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1275,12 +2325,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe",
+                "homepage": "https://www.openttd.org/",
                 "id": 128430621,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:53:37Z",
+                "open_issues": 412,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8216
+                "stars": 8216,
+                "topics": [
+                  "game",
+                  "isometric",
+                  "openttd",
+                  "sandbox",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1291,12 +2352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quake III Arena GPL Source Release",
+                "homepage": null,
                 "id": 3318027,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-02T00:20:36Z",
+                "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8207
+                "stars": 8207,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1307,12 +2373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code to VVVVVV! http://thelettervsixtim.es/",
+                "homepage": null,
                 "id": 44403028,
                 "language": "ActionScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T14:33:55Z",
+                "open_issues": 50,
                 "owner": "TerryCavanagh",
                 "repo": "VVVVVV",
-                "stars": 8021
+                "stars": 8021,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1323,12 +2394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A running-jumping-swordfighting game I made on the Apple II from 1985-89",
+                "homepage": "http://jordanmechner.com/ebook",
                 "id": 4047080,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-27T09:18:47Z",
+                "open_issues": 6,
                 "owner": "jmechner",
                 "repo": "Prince-of-Persia-Apple-II",
-                "stars": 6858
+                "stars": 6858,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1339,12 +2415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quake GPL Source Release",
+                "homepage": null,
                 "id": 3318531,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-06-15T17:16:08Z",
+                "open_issues": 4,
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6032
+                "stars": 6032,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1355,12 +2436,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official NetHack Git Repository",
+                "homepage": null,
                 "id": 47593546,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-28T21:00:04Z",
+                "open_issues": 140,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3885
+                "stars": 3885,
+                "topics": [
+                  "c",
+                  "game",
+                  "roguelike"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1371,12 +2461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Doom 3 GPL source release",
+                "homepage": null,
                 "id": 3321351,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2015-09-03T06:05:44Z",
+                "open_issues": 1,
                 "owner": "id-Software",
                 "repo": "DOOM-3",
-                "stars": 3587
+                "stars": 3587,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1387,12 +2482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quake 2 GPL Source Release",
+                "homepage": null,
                 "id": 3318174,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-12-05T19:48:59Z",
+                "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-2",
-                "stars": 3331
+                "stars": 3331,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1403,12 +2503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The original open source release of Wolfenstein 3D",
+                "homepage": null,
                 "id": 3368503,
                 "language": null,
+                "license": null,
                 "last_commit": "2012-02-06T16:40:38Z",
+                "open_issues": 1,
                 "owner": "id-Software",
                 "repo": "wolf3d",
-                "stars": 2526
+                "stars": 2526,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1419,12 +2524,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.",
+                "homepage": "http://www.barotraumagame.com/",
                 "id": 93301055,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-06-18T12:20:23Z",
+                "open_issues": 217,
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
-                "stars": 2196
+                "stars": 2196,
+                "topics": [
+                  "game",
+                  "monogame",
+                  "multiplayer-game"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1435,12 +2549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source release of Canabalt for iOS",
+                "homepage": "www.semisecretsoftware.com",
                 "id": 1209304,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2011-08-20T03:32:45Z",
+                "open_issues": 6,
                 "owner": "ericjohnson",
                 "repo": "canabalt-ios",
-                "stars": 1587
+                "stars": 1587,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1451,12 +2570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically exported from code.google.com/p/micropolis",
+                "homepage": null,
                 "id": 32254027,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-02-10T20:58:09Z",
+                "open_issues": 73,
                 "owner": "SimHacker",
                 "repo": "micropolis",
-                "stars": 1098
+                "stars": 1098,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1467,12 +2591,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Legend of Elya — N64 game with a real 6.36M-parameter ternary transformer on the VR4300 MIPS III CPU. Zelda-style dungeon, AI NPCs, byte-level inference at 1.23 tok/s scalar / 2.19 tok/s on the RSP overlay (measured under ares, never on silicon). Built with libdragon.",
+                "homepage": "https://hackaday.io/project/206401-transformers-on-retro-game-consoles",
                 "id": 1168838598,
                 "language": "C",
-                "last_commit": "2026-08-19T16:48:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:54:36Z",
+                "open_issues": 3,
                 "owner": "Scottcjn",
                 "repo": "legend-of-elya-n64",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "ai",
+                  "edge-ai",
+                  "embedded-ai",
+                  "game-dev",
+                  "homebrew",
+                  "libdragon",
+                  "llm",
+                  "llm-inference",
+                  "machine-learning",
+                  "mips",
+                  "n64",
+                  "nintendo-64",
+                  "quantization",
+                  "retro-gaming",
+                  "retrocomputing",
+                  "rustchain",
+                  "tinyml",
+                  "transformer",
+                  "vintage-computing",
+                  "zelda"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1496,12 +2646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Study Path for Game Programmer",
+                "homepage": null,
                 "id": 75701562,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-28T01:05:23Z",
+                "open_issues": 31,
                 "owner": "miloyip",
                 "repo": "game-programmer",
-                "stars": 18694
+                "stars": 18694,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1519,12 +2674,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+                "homepage": "https://lettier.github.io/3d-game-shaders-for-beginners/index.html",
                 "id": 186309296,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-06-25T21:58:57Z",
+                "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19859
+                "stars": 19859,
+                "topics": [
+                  "3d",
+                  "3d-graphics",
+                  "game-development",
+                  "gamedev",
+                  "glsl",
+                  "glsl-shader",
+                  "glsl-shaders",
+                  "godot",
+                  "graphics",
+                  "graphics-programming",
+                  "hlsl",
+                  "indiedev",
+                  "opengl",
+                  "panda3d",
+                  "shader",
+                  "shaders",
+                  "unity",
+                  "unity3d",
+                  "vulkan",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             }
@@ -1538,17 +2719,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:39:55.917Z",
+    "last_updated": "2026-08-29T04:16:07.962Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+      "homepage": null,
       "id": 21958186,
       "language": "Markdown",
-      "last_commit": "2026-08-28T17:26:39Z",
+      "license": "MIT",
+      "last_commit": "2026-08-29T02:14:32Z",
+      "open_issues": 14,
       "owner": "ellisonleao",
       "repo": "magictools",
-      "stars": 17212
+      "stars": 17212,
+      "topics": [
+        "art",
+        "awesome",
+        "awesome-list",
+        "board-games",
+        "curated",
+        "design",
+        "frameworks",
+        "game-design",
+        "game-development",
+        "game-engine",
+        "game-jam",
+        "game-programming",
+        "gamedev",
+        "games",
+        "hacktoberfest",
+        "list"
+      ]
     },
-    "original_repository_sha": "704da7d93443a1c57771d873bdfafa917d332cc1",
+    "original_repository_sha": "40f3f27b472923af49a939ffe718a784f915e042",
     "enhanced_repository": "enhansome/enhansome-magictools",
     "enhanced_repository_description": null,
     "title": "Awesome magictools with stars"
