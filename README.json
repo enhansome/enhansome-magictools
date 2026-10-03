@@ -63,7 +63,7 @@
                 "open_issues": 343,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25422,
+                "stars": 25421,
                 "topics": [
                   "2d",
                   "3d",
@@ -175,8 +175,8 @@
                 "id": 141905920,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T14:30:12Z",
-                "open_issues": 331,
+                "last_commit": "2026-10-03T02:59:03Z",
+                "open_issues": 329,
                 "owner": "RodZill4",
                 "repo": "material-maker",
                 "stars": 5962,
@@ -265,7 +265,7 @@
                 "open_issues": 0,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3244,
+                "stars": 3248,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -384,8 +384,20 @@
                 "repo": "worldloop-technical-showcase",
                 "stars": 4,
                 "topics": [
+                  "3d",
+                  "architecture",
+                  "building-generation",
+                  "cad",
+                  "computer-aided-design",
+                  "developer-tools",
                   "game-development",
+                  "game-tools",
+                  "generative-design",
+                  "level-design",
+                  "parametric-design",
+                  "procedural-architecture",
                   "procedural-generation",
+                  "procedural-modeling",
                   "roblox",
                   "roblox-studio",
                   "semantic-cad",
@@ -405,7 +417,7 @@
             {
               "node_type": "item",
               "title": ":tada: goxel",
-              "description": null,
+              "description": "guillaumechereau/goxel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -429,7 +441,7 @@
             {
               "node_type": "item",
               "title": ":free: Voxelle Desktop",
-              "description": null,
+              "description": "Velfi/Voxelle-Desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +494,7 @@
                 "open_issues": 1228,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76464,
+                "stars": 76469,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -519,7 +531,7 @@
                 "open_issues": 11,
                 "owner": "kitao",
                 "repo": "pyxel",
-                "stars": 18322,
+                "stars": 18355,
                 "topics": [
                   "game",
                   "game-development",
@@ -553,11 +565,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T04:52:44Z",
-                "open_issues": 283,
+                "last_commit": "2026-10-03T01:11:51Z",
+                "open_issues": 285,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17532,
+                "stars": 17531,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -741,7 +753,7 @@
                 "open_issues": 78,
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10779,
+                "stars": 10780,
                 "topics": [
                   "dart",
                   "flame",
@@ -909,7 +921,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:37:04Z",
+                "last_commit": "2026-10-02T23:05:34Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -940,7 +952,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T22:38:39Z",
-                "open_issues": 291,
+                "open_issues": 294,
                 "owner": "OpenXRay",
                 "repo": "xray-16",
                 "stars": 3571,
@@ -1042,8 +1054,8 @@
                 "id": 32973467,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:26:54Z",
-                "open_issues": 274,
+                "last_commit": "2026-10-03T04:56:14Z",
+                "open_issues": 275,
                 "owner": "codenameone",
                 "repo": "CodenameOne",
                 "stars": 1871,
@@ -1122,11 +1134,11 @@
                 "id": 223598953,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:00:56Z",
+                "last_commit": "2026-10-03T02:56:12Z",
                 "open_issues": 9,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "2d",
                   "3d",
@@ -1161,7 +1173,7 @@
                 "id": 613697580,
                 "language": "C#",
                 "license": "Zlib",
-                "last_commit": "2026-09-30T17:34:34Z",
+                "last_commit": "2026-10-03T04:49:02Z",
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
@@ -2135,7 +2147,7 @@
                 "open_issues": 54,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4374,
+                "stars": 4376,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -2271,7 +2283,7 @@
                 "open_issues": 42,
                 "owner": "BleuBleu",
                 "repo": "FamiStudio",
-                "stars": 1955,
+                "stars": 1957,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2289,7 +2301,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T13:39:32Z",
-                "open_issues": 141,
+                "open_issues": 142,
                 "owner": "Dn-Programming-Core-Management",
                 "repo": "Dn-FamiTracker",
                 "stars": 522,
@@ -2350,7 +2362,7 @@
             {
               "node_type": "item",
               "title": ":tada: Doom",
-              "description": null,
+              "description": "id-Software/DOOM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2371,7 +2383,7 @@
             {
               "node_type": "item",
               "title": ":tada: OpenRA",
-              "description": null,
+              "description": "OpenRA/OpenRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2384,7 +2396,7 @@
                 "open_issues": 1586,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17473,
+                "stars": 17474,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -2408,7 +2420,7 @@
             {
               "node_type": "item",
               "title": ":tada: OpenTTD",
-              "description": null,
+              "description": "OpenTTD/OpenTTD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2421,7 +2433,7 @@
                 "open_issues": 403,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8325,
+                "stars": 8326,
                 "topics": [
                   "game",
                   "isometric",
@@ -2435,7 +2447,7 @@
             {
               "node_type": "item",
               "title": ":tada: Quake III Arena",
-              "description": null,
+              "description": "id-Software/Quake-III-Arena",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2456,7 +2468,7 @@
             {
               "node_type": "item",
               "title": ":free: VVVVVV",
-              "description": null,
+              "description": "TerryCavanagh/VVVVVV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2477,7 +2489,7 @@
             {
               "node_type": "item",
               "title": ":tada: Prince of Persia",
-              "description": null,
+              "description": "jmechner/Prince-of-Persia-Apple-II",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2498,7 +2510,7 @@
             {
               "node_type": "item",
               "title": ":tada: Quake",
-              "description": null,
+              "description": "id-Software/Quake",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2511,7 +2523,7 @@
                 "open_issues": 4,
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6070,
+                "stars": 6071,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2519,7 +2531,7 @@
             {
               "node_type": "item",
               "title": ":tada: NetHack",
-              "description": null,
+              "description": "NetHack/NetHack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2544,7 +2556,7 @@
             {
               "node_type": "item",
               "title": ":tada: Doom 3",
-              "description": null,
+              "description": "id-Software/DOOM-3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2565,7 +2577,7 @@
             {
               "node_type": "item",
               "title": ":tada: Quake 2",
-              "description": null,
+              "description": "id-Software/Quake-2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2586,7 +2598,7 @@
             {
               "node_type": "item",
               "title": ":tada: Wolfenstein 3D",
-              "description": null,
+              "description": "id-Software/wolf3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2607,7 +2619,7 @@
             {
               "node_type": "item",
               "title": ":tada: Barotrauma",
-              "description": null,
+              "description": "FakeFishGames/Barotrauma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2632,7 +2644,7 @@
             {
               "node_type": "item",
               "title": ":tada: Canabalt iOS",
-              "description": null,
+              "description": "ericjohnson/canabalt-ios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2653,7 +2665,7 @@
             {
               "node_type": "item",
               "title": ":tada: SimCity",
-              "description": null,
+              "description": "SimHacker/micropolis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2666,7 +2678,7 @@
                 "open_issues": 73,
                 "owner": "SimHacker",
                 "repo": "micropolis",
-                "stars": 1113,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2757,7 +2769,7 @@
             {
               "node_type": "item",
               "title": ":free: 3D Game Shaders For Beginners",
-              "description": null,
+              "description": "lettier/3d-game-shaders-for-beginners",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2770,7 +2782,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19932,
+                "stars": 19935,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -2806,7 +2818,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:56:29.626Z",
+    "last_updated": "2026-10-03T04:56:41.820Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
@@ -2818,7 +2830,7 @@
       "open_issues": 27,
       "owner": "ellisonleao",
       "repo": "magictools",
-      "stars": 17404,
+      "stars": 17407,
       "topics": [
         "art",
         "awesome",
