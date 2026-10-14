@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3378,
+                "stars": 3380,
                 "topics": [
                   "blender-3d",
                   "envmap",
@@ -59,11 +59,11 @@
                 "id": 5373551,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:57:58Z",
-                "open_issues": 343,
+                "last_commit": "2026-10-14T07:39:51Z",
+                "open_issues": 342,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25483,
+                "stars": 25444,
                 "topics": [
                   "2d",
                   "3d",
@@ -176,10 +176,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T19:41:31Z",
-                "open_issues": 305,
+                "open_issues": 306,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 5983,
+                "stars": 5986,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -265,7 +265,7 @@
                 "open_issues": 0,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3275,
+                "stars": 3279,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -490,11 +490,11 @@
                 "id": 22067521,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:38:19Z",
-                "open_issues": 1216,
+                "last_commit": "2026-10-14T16:37:39Z",
+                "open_issues": 1218,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76628,
+                "stars": 76646,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -527,11 +527,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-13T14:50:10Z",
+                "last_commit": "2026-10-14T14:28:18Z",
                 "open_issues": 284,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17554,
+                "stars": 17558,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -566,11 +566,11 @@
                 "id": 78869430,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T15:24:53Z",
-                "open_issues": 121,
+                "last_commit": "2026-10-14T13:42:52Z",
+                "open_issues": 122,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13507,
+                "stars": 13512,
                 "topics": [
                   "backend",
                   "cpp",
@@ -612,7 +612,7 @@
                 "open_issues": 14,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13192,
+                "stars": 13194,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -681,7 +681,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-20T21:11:42Z",
-                "open_issues": 316,
+                "open_issues": 317,
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
                 "stars": 11447,
@@ -711,8 +711,8 @@
                 "id": 107833072,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-13T19:38:47Z",
-                "open_issues": 81,
+                "last_commit": "2026-10-14T11:10:38Z",
+                "open_issues": 78,
                 "owner": "flame-engine",
                 "repo": "flame",
                 "stars": 10786,
@@ -776,7 +776,7 @@
                 "open_issues": 149,
                 "owner": "AlmasB",
                 "repo": "FXGL",
-                "stars": 4864,
+                "stars": 4863,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -818,7 +818,7 @@
                 "open_issues": 347,
                 "owner": "not-fl3",
                 "repo": "macroquad",
-                "stars": 4662,
+                "stars": 4666,
                 "topics": [
                   "android",
                   "game-engine",
@@ -845,7 +845,7 @@
                 "open_issues": 24,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4471,
+                "stars": 4472,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -883,7 +883,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T20:29:10Z",
+                "last_commit": "2026-10-14T19:27:44Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -913,11 +913,11 @@
                 "id": 23690226,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T15:10:53Z",
-                "open_issues": 293,
+                "last_commit": "2026-10-13T23:12:26Z",
+                "open_issues": 294,
                 "owner": "OpenXRay",
                 "repo": "xray-16",
-                "stars": 3579,
+                "stars": 3580,
                 "topics": [
                   "3d-engine",
                   "arm64",
@@ -977,7 +977,7 @@
                 "language": "C",
                 "license": "Zlib",
                 "last_commit": "2026-10-11T03:06:18Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ColleagueRiley",
                 "repo": "RGFW",
                 "stars": 1905,
@@ -1016,8 +1016,8 @@
                 "id": 32973467,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T20:47:30Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-14T19:51:08Z",
+                "open_issues": 288,
                 "owner": "codenameone",
                 "repo": "CodenameOne",
                 "stars": 1881,
@@ -1096,11 +1096,11 @@
                 "id": 223598953,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T11:49:23Z",
+                "last_commit": "2026-10-14T11:08:36Z",
                 "open_issues": 15,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1483,
+                "stars": 1485,
                 "topics": [
                   "2d",
                   "3d",
@@ -1135,11 +1135,11 @@
                 "id": 11965691,
                 "language": "F#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T21:13:30Z",
+                "last_commit": "2026-10-14T09:47:55Z",
                 "open_issues": 207,
                 "owner": "bryanedds",
                 "repo": "Nu",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": []
               },
               "first_seen": "2026-10-13T21:30:27.226Z"
@@ -1160,7 +1160,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -1198,7 +1198,7 @@
                 "open_issues": 3,
                 "owner": "FosterFramework",
                 "repo": "Foster",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "2d",
                   "cross-platform",
@@ -1322,7 +1322,7 @@
                 "open_issues": 5,
                 "owner": "GameFrameX",
                 "repo": "GameFrameX",
-                "stars": 660,
+                "stars": 662,
                 "topics": [
                   "cocos-creator",
                   "cross-platform",
@@ -1487,7 +1487,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2016-05-29T03:58:27Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "ajhager",
                 "repo": "engi",
                 "stars": 392,
@@ -1549,7 +1549,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T08:29:34Z",
-                "open_issues": 4,
+                "open_issues": 2,
                 "owner": "attackgoat",
                 "repo": "vk-graph",
                 "stars": 342,
@@ -1706,7 +1706,7 @@
                 "open_issues": 10,
                 "owner": "ikpil",
                 "repo": "Box2D.NET",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "2d",
                   "2d-game",
@@ -1906,7 +1906,7 @@
                 "open_issues": 19,
                 "owner": "ArtyProf",
                 "repo": "steamworks-ffi-node",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "electron",
                   "javascript",
@@ -1947,6 +1947,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
+            },
+            {
+              "node_type": "item",
+              "title": ":tada: Mibo",
+              "description": "Elmish (MVU) F# game framework on raylib-cs or MonoGame.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://angelmunoz.github.io/Mibo/",
+                "id": 1244019224,
+                "language": "F#",
+                "license": "Zlib",
+                "last_commit": "2026-10-07T03:34:05Z",
+                "open_issues": 1,
+                "owner": "AngelMunoz",
+                "repo": "Mibo",
+                "stars": 32,
+                "topics": [
+                  "dotnet",
+                  "framework",
+                  "fsharp",
+                  "fsharpgamedev",
+                  "gamedev",
+                  "monogame",
+                  "raylib",
+                  "raylib-cs"
+                ]
+              },
+              "first_seen": "2026-10-14T20:18:44.125Z"
             },
             {
               "node_type": "item",
@@ -2130,7 +2160,7 @@
                 "open_issues": 60,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4430,
+                "stars": 4454,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -2266,7 +2296,7 @@
                 "open_issues": 44,
                 "owner": "BleuBleu",
                 "repo": "FamiStudio",
-                "stars": 1958,
+                "stars": 1959,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2327,7 +2357,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-05-09T00:58:26Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "hzoo",
                 "repo": "awesome-gametalks",
                 "stars": 1189,
@@ -2358,7 +2388,7 @@
                 "open_issues": 15,
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19709,
+                "stars": 19716,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2376,10 +2406,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-11T14:29:17Z",
-                "open_issues": 1584,
+                "open_issues": 1586,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17554,
+                "stars": 17565,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -2413,10 +2443,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T14:30:45Z",
-                "open_issues": 407,
+                "open_issues": 409,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8367,
+                "stars": 8369,
                 "topics": [
                   "game",
                   "isometric",
@@ -2443,7 +2473,7 @@
                 "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8268,
+                "stars": 8269,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2464,7 +2494,7 @@
                 "open_issues": 53,
                 "owner": "TerryCavanagh",
                 "repo": "VVVVVV",
-                "stars": 8025,
+                "stars": 8028,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2506,7 +2536,7 @@
                 "open_issues": 4,
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6085,
+                "stars": 6086,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2524,10 +2554,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-13T17:45:03Z",
-                "open_issues": 157,
+                "open_issues": 158,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3949,
+                "stars": 3951,
                 "topics": [
                   "c",
                   "game",
@@ -2552,7 +2582,7 @@
                 "open_issues": 1,
                 "owner": "id-Software",
                 "repo": "DOOM-3",
-                "stars": 3606,
+                "stars": 3607,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2573,7 +2603,7 @@
                 "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-2",
-                "stars": 3350,
+                "stars": 3351,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2612,10 +2642,10 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-09-02T08:39:28Z",
-                "open_issues": 220,
+                "open_issues": 222,
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
-                "stars": 2249,
+                "stars": 2250,
                 "topics": [
                   "game",
                   "monogame",
@@ -2695,7 +2725,7 @@
                 "open_issues": 31,
                 "owner": "miloyip",
                 "repo": "game-programmer",
-                "stars": 18719,
+                "stars": 18722,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2723,7 +2753,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19952,
+                "stars": 19957,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -2759,7 +2789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:30:27.226Z",
+    "last_updated": "2026-10-14T20:18:44.125Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
@@ -2767,11 +2797,11 @@
       "id": 21958186,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-10-13T12:40:35Z",
+      "last_commit": "2026-10-14T17:40:31Z",
       "open_issues": 38,
       "owner": "ellisonleao",
       "repo": "magictools",
-      "stars": 17486,
+      "stars": 17492,
       "topics": [
         "art",
         "awesome",
@@ -2791,7 +2821,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "f71f9fb2c3e29410a354116d5e26db7180772961",
+    "original_repository_sha": "fc5f4a10a9cce0cab78e64e00bbe0732ba8a36a9",
     "enhanced_repository": "enhansome/enhansome-magictools",
     "enhanced_repository_description": null,
     "title": "Awesome magictools with stars"
