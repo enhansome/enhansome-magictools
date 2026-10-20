@@ -63,7 +63,7 @@
                 "open_issues": 342,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25453,
+                "stars": 25463,
                 "topics": [
                   "2d",
                   "3d",
@@ -165,6 +165,40 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":tada: Sprite Fusion Sprite Normals",
+              "description": "Generate normal maps from pixel art sprites and animations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+                "homepage": "https://www.spritefusion.com/sprite-normals",
+                "id": 1425658028,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-10-20T10:31:00Z",
+                "open_issues": 0,
+                "owner": "Hugo-Dz",
+                "repo": "spritefusion-sprite-normals",
+                "stars": 237,
+                "topics": [
+                  "gamedev",
+                  "normal-map",
+                  "normal-mapping",
+                  "pixel-art",
+                  "sprites"
+                ]
+              },
+              "first_seen": "2026-10-20T20:06:32.282Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texture Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":tada: Material Maker",
               "description": "procedural texture creator made in Godot",
               "children": [],
@@ -175,11 +209,11 @@
                 "id": 141905920,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T05:55:09Z",
-                "open_issues": 300,
+                "last_commit": "2026-10-20T19:54:33Z",
+                "open_issues": 299,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 6002,
+                "stars": 6008,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -261,11 +295,11 @@
                 "id": 1103154605,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-19T16:46:27Z",
+                "last_commit": "2026-10-20T10:30:51Z",
                 "open_issues": 0,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3289,
+                "stars": 3294,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -494,7 +528,7 @@
                 "open_issues": 1222,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76737,
+                "stars": 76748,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -527,8 +561,8 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-19T03:17:56Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-20T05:40:42Z",
+                "open_issues": 71,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
                 "stars": 17573,
@@ -566,11 +600,11 @@
                 "id": 78869430,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T20:28:05Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-20T18:07:42Z",
+                "open_issues": 122,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13534,
+                "stars": 13538,
                 "topics": [
                   "backend",
                   "cpp",
@@ -612,7 +646,7 @@
                 "open_issues": 14,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13207,
+                "stars": 13208,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -654,7 +688,7 @@
                 "open_issues": 68,
                 "owner": "boardgameio",
                 "repo": "boardgame.io",
-                "stars": 12468,
+                "stars": 12470,
                 "topics": [
                   "boardgames",
                   "game-engine",
@@ -684,7 +718,7 @@
                 "open_issues": 322,
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11455,
+                "stars": 11456,
                 "topics": [
                   "c",
                   "c89",
@@ -712,7 +746,7 @@
                 "language": "Dart",
                 "license": "MIT",
                 "last_commit": "2026-10-19T17:34:08Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "flame-engine",
                 "repo": "flame",
                 "stars": 10791,
@@ -818,7 +852,7 @@
                 "open_issues": 350,
                 "owner": "not-fl3",
                 "repo": "macroquad",
-                "stars": 4672,
+                "stars": 4674,
                 "topics": [
                   "android",
                   "game-engine",
@@ -845,7 +879,7 @@
                 "open_issues": 23,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4480,
+                "stars": 4482,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -883,7 +917,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-18T22:58:08Z",
+                "last_commit": "2026-10-20T18:40:27Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -959,7 +993,7 @@
                 "open_issues": 190,
                 "owner": "Rajawali",
                 "repo": "Rajawali",
-                "stars": 2415,
+                "stars": 2416,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -1016,11 +1050,11 @@
                 "id": 32973467,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T20:52:56Z",
+                "last_commit": "2026-10-20T20:04:45Z",
                 "open_issues": 289,
                 "owner": "codenameone",
                 "repo": "CodenameOne",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "android",
                   "aot",
@@ -1096,11 +1130,11 @@
                 "id": 223598953,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T01:43:23Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-20T13:17:21Z",
+                "open_issues": 15,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1488,
+                "stars": 1489,
                 "topics": [
                   "2d",
                   "3d",
@@ -1318,11 +1352,11 @@
                 "id": 612134772,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-18T19:52:42Z",
+                "last_commit": "2026-10-19T21:52:18Z",
                 "open_issues": 5,
                 "owner": "GameFrameX",
                 "repo": "GameFrameX",
-                "stars": 667,
+                "stars": 711,
                 "topics": [
                   "cocos-creator",
                   "cross-platform",
@@ -1577,7 +1611,7 @@
                 "id": 1313517,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-19T16:57:07Z",
+                "last_commit": "2026-10-20T09:44:17Z",
                 "open_issues": 7,
                 "owner": "jhasse",
                 "repo": "jngl",
@@ -1855,7 +1889,7 @@
                 "open_issues": 4,
                 "owner": "vanyle",
                 "repo": "vectarine",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "game-engine",
                   "gamedev",
@@ -1865,6 +1899,43 @@
                   "multi-platform",
                   "opengl",
                   "rust"
+                ]
+              },
+              "first_seen": "2026-08-29T00:39:55.917Z"
+            },
+            {
+              "node_type": "item",
+              "title": ":tada: steamworks-ffi-node",
+              "description": "a Node.js wrapper for Steamworks SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A TypeScript/JavaScript wrapper for the Steamworks SDK using Koffi FFI, designed for Node.js and Electron applications with Steamworks SDK integration.",
+                "homepage": "https://www.npmjs.com/package/steamworks-ffi-node",
+                "id": 1073682146,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-24T12:34:14Z",
+                "open_issues": 19,
+                "owner": "ArtyProf",
+                "repo": "steamworks-ffi-node",
+                "stars": 87,
+                "topics": [
+                  "electron",
+                  "javascript",
+                  "javascript-library",
+                  "nodejs",
+                  "steam",
+                  "steam-cloud",
+                  "steam-sdk",
+                  "steam-workshop",
+                  "steamworks",
+                  "steamworks-achievements",
+                  "steamworks-js",
+                  "steamworks-node",
+                  "steamworks-sdk",
+                  "steamworks-ts",
+                  "typescript"
                 ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -1887,43 +1958,6 @@
                 "repo": "ChipmunkSharp",
                 "stars": 86,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: steamworks-ffi-node",
-              "description": "a Node.js wrapper for Steamworks SDK.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A TypeScript/JavaScript wrapper for the Steamworks SDK using Koffi FFI, designed for Node.js and Electron applications with Steamworks SDK integration.",
-                "homepage": "https://www.npmjs.com/package/steamworks-ffi-node",
-                "id": 1073682146,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-24T12:34:14Z",
-                "open_issues": 19,
-                "owner": "ArtyProf",
-                "repo": "steamworks-ffi-node",
-                "stars": 86,
-                "topics": [
-                  "electron",
-                  "javascript",
-                  "javascript-library",
-                  "nodejs",
-                  "steam",
-                  "steam-cloud",
-                  "steam-sdk",
-                  "steam-workshop",
-                  "steamworks",
-                  "steamworks-achievements",
-                  "steamworks-js",
-                  "steamworks-node",
-                  "steamworks-sdk",
-                  "steamworks-ts",
-                  "typescript"
-                ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
             },
@@ -1960,8 +1994,8 @@
                 "id": 1244019224,
                 "language": "F#",
                 "license": "Zlib",
-                "last_commit": "2026-10-07T03:34:05Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-20T18:01:55Z",
+                "open_issues": 3,
                 "owner": "AngelMunoz",
                 "repo": "Mibo",
                 "stars": 32,
@@ -2156,11 +2190,11 @@
                 "id": 959123498,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T20:12:56Z",
-                "open_issues": 59,
+                "last_commit": "2026-10-20T08:03:57Z",
+                "open_issues": 60,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4501,
+                "stars": 4509,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -2293,10 +2327,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-10T09:19:53Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "BleuBleu",
                 "repo": "FamiStudio",
-                "stars": 1960,
+                "stars": 1962,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2388,7 +2422,7 @@
                 "open_issues": 15,
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19747,
+                "stars": 19755,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2405,11 +2439,11 @@
                 "id": 959908,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T14:29:17Z",
-                "open_issues": 1599,
+                "last_commit": "2026-10-20T13:10:56Z",
+                "open_issues": 1601,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17601,
+                "stars": 17608,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -2442,11 +2476,11 @@
                 "id": 128430621,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T14:24:55Z",
-                "open_issues": 401,
+                "last_commit": "2026-10-20T09:35:15Z",
+                "open_issues": 398,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8394,
+                "stars": 8399,
                 "topics": [
                   "game",
                   "isometric",
@@ -2473,7 +2507,7 @@
                 "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8275,
+                "stars": 8274,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2494,7 +2528,7 @@
                 "open_issues": 47,
                 "owner": "TerryCavanagh",
                 "repo": "VVVVVV",
-                "stars": 8037,
+                "stars": 8039,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2515,7 +2549,7 @@
                 "open_issues": 6,
                 "owner": "jmechner",
                 "repo": "Prince-of-Persia-Apple-II",
-                "stars": 6910,
+                "stars": 6909,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2536,7 +2570,7 @@
                 "open_issues": 4,
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6091,
+                "stars": 6090,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2553,11 +2587,11 @@
                 "id": 47593546,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-18T19:37:16Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-20T12:37:17Z",
+                "open_issues": 158,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3956,
+                "stars": 3958,
                 "topics": [
                   "c",
                   "game",
@@ -2624,7 +2658,7 @@
                 "open_issues": 1,
                 "owner": "id-Software",
                 "repo": "wolf3d",
-                "stars": 2555,
+                "stars": 2554,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2642,7 +2676,7 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-09-02T08:39:28Z",
-                "open_issues": 235,
+                "open_issues": 228,
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
                 "stars": 2250,
@@ -2753,7 +2787,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19968,
+                "stars": 19970,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -2789,7 +2823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:13:20.516Z",
+    "last_updated": "2026-10-20T20:06:32.282Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
@@ -2797,11 +2831,11 @@
       "id": 21958186,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-10-19T18:16:47Z",
+      "last_commit": "2026-10-20T17:15:27Z",
       "open_issues": 45,
       "owner": "ellisonleao",
       "repo": "magictools",
-      "stars": 17523,
+      "stars": 17532,
       "topics": [
         "art",
         "awesome",
@@ -2821,7 +2855,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "a6ac71f4df81f2e5a351e197c8ada32eb83eb4fe",
+    "original_repository_sha": "243058a50311e461bdb7651eddb1676f88618197",
     "enhanced_repository": "enhansome/enhansome-magictools",
     "enhanced_repository_description": null,
     "title": "Awesome magictools with stars"
