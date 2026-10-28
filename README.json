@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "nidorx",
                 "repo": "matcaps",
-                "stars": 3393,
+                "stars": 3394,
                 "topics": [
                   "blender-3d",
                   "envmap",
@@ -63,7 +63,7 @@
                 "open_issues": 341,
                 "owner": "libgdx",
                 "repo": "libgdx",
-                "stars": 25480,
+                "stars": 25486,
                 "topics": [
                   "2d",
                   "3d",
@@ -105,56 +105,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: EzSpriteSheet",
-              "description": "Creates sprite sheets from animated GIFs and more",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A free and open source sprite sheet creator",
-                "homepage": null,
-                "id": 451002283,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-11T02:12:25Z",
-                "open_issues": 3,
-                "owner": "z64me",
-                "repo": "EzSpriteSheet",
-                "stars": 62,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Tilesplit",
-              "description": "CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CLI tilesheet splitter in Py3",
-                "homepage": null,
-                "id": 165904175,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-02-27T21:11:46Z",
-                "open_issues": 0,
-                "owner": "morganholly",
-                "repo": "tilesplit",
-                "stars": 3,
-                "topics": [
-                  "cli-tilesheet-splitter",
-                  "image-splitting",
-                  "python",
-                  "python3",
-                  "tile",
-                  "tiles",
-                  "tilesheet"
-                ]
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
             }
           ],
           "description": null,
@@ -179,7 +129,7 @@
                 "open_issues": 2,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-sprite-normals",
-                "stars": 688,
+                "stars": 694,
                 "topics": [
                   "gamedev",
                   "normal-map",
@@ -246,7 +196,7 @@
                 "open_issues": 296,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 6029,
+                "stars": 6036,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -300,8 +250,8 @@
                 "id": 447462104,
                 "language": "Game Maker Language",
                 "license": "MIT",
-                "last_commit": "2026-10-27T05:51:20Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-28T09:45:50Z",
+                "open_issues": 75,
                 "owner": "Ttanasart-pt",
                 "repo": "Pixel-Composer",
                 "stars": 1430,
@@ -325,7 +275,7 @@
                 "open_issues": 5,
                 "owner": "Yoru-KenomoVT",
                 "repo": "ayatsuri_2d",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "2d-animation",
                   "animation",
@@ -426,7 +376,7 @@
                 "open_issues": 0,
                 "owner": "Hugo-Dz",
                 "repo": "spritefusion-pixel-snapper",
-                "stars": 3352,
+                "stars": 3358,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -529,54 +479,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": ":free: WorldLoop",
-              "description": "Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Public technical showcase for WorldLoop procedural architecture, semantic CAD, Terrain compilation, and Roblox Studio delivery.",
-                "homepage": "https://worldloop.io",
-                "id": 1337631865,
-                "language": null,
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-30T12:33:42Z",
-                "open_issues": 0,
-                "owner": "Daniele-Cangi",
-                "repo": "worldloop-technical-showcase",
-                "stars": 5,
-                "topics": [
-                  "3d",
-                  "architecture",
-                  "building-generation",
-                  "cad",
-                  "computer-aided-design",
-                  "developer-tools",
-                  "game-development",
-                  "game-tools",
-                  "generative-design",
-                  "level-design",
-                  "parametric-design",
-                  "procedural-architecture",
-                  "procedural-generation",
-                  "procedural-modeling",
-                  "roblox",
-                  "roblox-studio",
-                  "semantic-cad",
-                  "terrain-generation",
-                  "world-generation"
-                ]
-              },
-              "first_seen": "2026-08-29T04:16:07.962Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Terrain Generators"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": ":tada: goxel",
               "description": "guillaumechereau/goxel",
               "children": [],
@@ -591,37 +493,10 @@
                 "open_issues": 133,
                 "owner": "guillaumechereau",
                 "repo": "goxel",
-                "stars": 3218,
+                "stars": 3222,
                 "topics": [
                   "voxel-editors",
                   "voxels"
-                ]
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":free: Voxelle Desktop",
-              "description": "Velfi/Voxelle-Desktop",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A native voxel editor for macOS, Windows, and Linux. Open, create, sculpt, and paint voxel scenes in a fast GPU-accelerated viewport.",
-                "homepage": null,
-                "id": 1196104197,
-                "language": "Rust",
-                "license": null,
-                "last_commit": "2026-04-18T13:56:54Z",
-                "open_issues": 0,
-                "owner": "Velfi",
-                "repo": "Voxelle-Desktop",
-                "stars": 6,
-                "topics": [
-                  "art",
-                  "fun",
-                  "game",
-                  "tauri",
-                  "voxel"
                 ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -651,11 +526,11 @@
                 "id": 22067521,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-27T17:48:06Z",
+                "last_commit": "2026-10-28T14:41:31Z",
                 "open_issues": 1218,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76841,
+                "stars": 76866,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -688,11 +563,11 @@
                 "id": 136780445,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T14:28:41Z",
+                "last_commit": "2026-10-28T00:03:39Z",
                 "open_issues": 12,
                 "owner": "kitao",
                 "repo": "pyxel",
-                "stars": 18471,
+                "stars": 18475,
                 "topics": [
                   "game",
                   "game-development",
@@ -726,11 +601,11 @@
                 "id": 3925242,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-27T19:15:22Z",
+                "last_commit": "2026-10-28T06:02:43Z",
                 "open_issues": 66,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17590,
+                "stars": 17592,
                 "topics": [
                   "d3d11",
                   "d3d12",
@@ -755,6 +630,37 @@
             },
             {
               "node_type": "item",
+              "title": ":tada: Bullet",
+              "description": "Real-time physics simulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+                "homepage": "http://bulletphysics.org",
+                "id": 1605598,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-09T21:51:41Z",
+                "open_issues": 437,
+                "owner": "bulletphysics",
+                "repo": "bullet3",
+                "stars": 14823,
+                "topics": [
+                  "computer-animation",
+                  "game-development",
+                  "kinematics",
+                  "pybullet",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "simulator",
+                  "virtual-reality"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
+            },
+            {
+              "node_type": "item",
               "title": ":tada: Nakama",
               "description": "Distributed server for social and realtime games and apps.",
               "children": [],
@@ -765,11 +671,11 @@
                 "id": 78869430,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T20:04:58Z",
+                "last_commit": "2026-10-28T18:48:24Z",
                 "open_issues": 126,
                 "owner": "heroiclabs",
                 "repo": "nakama",
-                "stars": 13599,
+                "stars": 13604,
                 "topics": [
                   "backend",
                   "cpp",
@@ -811,7 +717,7 @@
                 "open_issues": 13,
                 "owner": "skypjack",
                 "repo": "entt",
-                "stars": 13225,
+                "stars": 13229,
                 "topics": [
                   "architectural-patterns",
                   "cpp",
@@ -850,10 +756,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T22:34:39Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "boardgameio",
                 "repo": "boardgame.io",
-                "stars": 12476,
+                "stars": 12477,
                 "topics": [
                   "boardgames",
                   "game-engine",
@@ -883,7 +789,7 @@
                 "open_issues": 323,
                 "owner": "Immediate-Mode-UI",
                 "repo": "Nuklear",
-                "stars": 11467,
+                "stars": 11470,
                 "topics": [
                   "c",
                   "c89",
@@ -910,11 +816,11 @@
                 "id": 107833072,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-27T16:10:17Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-28T19:14:49Z",
+                "open_issues": 89,
                 "owner": "flame-engine",
                 "repo": "flame",
-                "stars": 10804,
+                "stars": 10808,
                 "topics": [
                   "dart",
                   "flame",
@@ -975,7 +881,7 @@
                 "open_issues": 144,
                 "owner": "AlmasB",
                 "repo": "FXGL",
-                "stars": 4871,
+                "stars": 4872,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1044,7 +950,7 @@
                 "open_issues": 23,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4487,
+                "stars": 4491,
                 "topics": [
                   "3d-engine",
                   "d3d11",
@@ -1082,7 +988,7 @@
                 "id": 14590125,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-25T23:36:12Z",
+                "last_commit": "2026-10-27T21:31:16Z",
                 "open_issues": 34,
                 "owner": "nem0",
                 "repo": "LumixEngine",
@@ -1116,7 +1022,7 @@
                 "open_issues": 300,
                 "owner": "OpenXRay",
                 "repo": "xray-16",
-                "stars": 3598,
+                "stars": 3600,
                 "topics": [
                   "3d-engine",
                   "arm64",
@@ -1165,6 +1071,32 @@
             },
             {
               "node_type": "item",
+              "title": ":tada: Chipmunk2D",
+              "description": "A fast and lightweight 2D game physics library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A fast and lightweight 2D game physics library.",
+                "homepage": "http://chipmunk2d.net",
+                "id": 2033079,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-05-05T18:45:27Z",
+                "open_issues": 69,
+                "owner": "slembcke",
+                "repo": "Chipmunk2D",
+                "stars": 2409,
+                "topics": [
+                  "2d",
+                  "2d-physics",
+                  "c",
+                  "rigid-body"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
+            },
+            {
+              "node_type": "item",
               "title": ":tada: RGFW",
               "description": "Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.",
               "children": [],
@@ -1175,8 +1107,8 @@
                 "id": 605157846,
                 "language": "C",
                 "license": "Zlib",
-                "last_commit": "2026-10-22T16:57:59Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-28T01:38:39Z",
+                "open_issues": 8,
                 "owner": "ColleagueRiley",
                 "repo": "RGFW",
                 "stars": 1917,
@@ -1215,11 +1147,11 @@
                 "id": 32973467,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T20:54:52Z",
-                "open_issues": 275,
+                "last_commit": "2026-10-28T21:15:44Z",
+                "open_issues": 274,
                 "owner": "codenameone",
                 "repo": "CodenameOne",
-                "stars": 1898,
+                "stars": 1900,
                 "topics": [
                   "android",
                   "aot",
@@ -1285,6 +1217,30 @@
             },
             {
               "node_type": "item",
+              "title": ":tada: Horde3D",
+              "description": "small open source 3D rendering engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible.",
+                "homepage": "http://horde3d.org/",
+                "id": 12648744,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2026-09-09T19:03:58Z",
+                "open_issues": 21,
+                "owner": "horde3d",
+                "repo": "Horde3D",
+                "stars": 1593,
+                "topics": [
+                  "3d-graphics",
+                  "rendering-engine"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
+            },
+            {
+              "node_type": "item",
               "title": ":tada: axys",
               "description": "A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.",
               "children": [],
@@ -1295,11 +1251,11 @@
                 "id": 223598953,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T09:49:38Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-28T01:59:13Z",
+                "open_issues": 18,
                 "owner": "axmolengine",
                 "repo": "axmol",
-                "stars": 1494,
+                "stars": 1496,
                 "topics": [
                   "2d",
                   "3d",
@@ -1334,11 +1290,11 @@
                 "id": 11965691,
                 "language": "F#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T12:25:54Z",
-                "open_issues": 207,
+                "last_commit": "2026-10-28T10:44:04Z",
+                "open_issues": 206,
                 "owner": "bryanedds",
                 "repo": "Nu",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": []
               },
               "first_seen": "2026-10-13T21:30:27.226Z"
@@ -1359,7 +1315,7 @@
                 "open_issues": 18,
                 "owner": "ikpil",
                 "repo": "DotRecast",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "ai",
                   "crowd-simulation",
@@ -1380,6 +1336,40 @@
                 ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
+            },
+            {
+              "node_type": "item",
+              "title": ":tada: Supernova Engine",
+              "description": "Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design",
+                "homepage": "http://www.doriax.org",
+                "id": 64516740,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-10-28T16:56:36Z",
+                "open_issues": 16,
+                "owner": "doriaxengine",
+                "repo": "doriax",
+                "stars": 897,
+                "topics": [
+                  "cross-platform",
+                  "data-oriented-design",
+                  "directx",
+                  "ecs",
+                  "entity-component-system",
+                  "game-dev",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "metalapi",
+                  "opengl",
+                  "opengl-es"
+                ]
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
             },
             {
               "node_type": "item",
@@ -1461,9 +1451,9 @@
                 "description": "An open-source toolbox that takes a game all the way \"from idea → built → live\" — Unity/Godot/Cocos/Laya clients + one .NET server. | 开源游戏全流程工具箱：Unity/Godot/Cocos/Laya 客户端 + .NET 服务器，从想法到上线一站搞定。",
                 "homepage": "https://gameframex.doc.alianblank.com",
                 "id": 612134772,
-                "language": "JavaScript",
+                "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-26T22:06:52Z",
+                "last_commit": "2026-10-27T21:37:32Z",
                 "open_issues": 5,
                 "owner": "GameFrameX",
                 "repo": "GameFrameX",
@@ -1605,7 +1595,7 @@
                 "open_issues": 3,
                 "owner": "cocoatoucher",
                 "repo": "Glide",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "2d-game-engine",
                   "apple",
@@ -1766,6 +1756,27 @@
             },
             {
               "node_type": "item",
+              "title": ":tada: Rpgboss",
+              "description": "A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "point and click rpg game editor and engine",
+                "homepage": "rpgboss.com",
+                "id": 6274936,
+                "language": "Scala",
+                "license": "NOASSERTION",
+                "last_commit": "2021-06-08T21:00:44Z",
+                "open_issues": 174,
+                "owner": "rpgboss",
+                "repo": "rpgboss",
+                "stars": 328,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
+            },
+            {
+              "node_type": "item",
               "title": ":tada: JNGL",
               "description": "a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.",
               "children": [],
@@ -1776,7 +1787,7 @@
                 "id": 1313517,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-24T10:55:16Z",
+                "last_commit": "2026-10-27T21:05:31Z",
                 "open_issues": 7,
                 "owner": "jhasse",
                 "repo": "jngl",
@@ -1815,7 +1826,7 @@
                 "open_issues": 0,
                 "owner": "tek256",
                 "repo": "astera",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "2d-game-library",
                   "c",
@@ -2067,308 +2078,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: steamworks-ffi-node",
-              "description": "a Node.js wrapper for Steamworks SDK.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A TypeScript/JavaScript wrapper for the Steamworks SDK using Koffi FFI, designed for Node.js and Electron applications with Steamworks SDK integration.",
-                "homepage": "https://www.npmjs.com/package/steamworks-ffi-node",
-                "id": 1073682146,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-24T12:34:14Z",
-                "open_issues": 19,
-                "owner": "ArtyProf",
-                "repo": "steamworks-ffi-node",
-                "stars": 87,
-                "topics": [
-                  "electron",
-                  "javascript",
-                  "javascript-library",
-                  "nodejs",
-                  "steam",
-                  "steam-cloud",
-                  "steam-sdk",
-                  "steam-workshop",
-                  "steamworks",
-                  "steamworks-achievements",
-                  "steamworks-js",
-                  "steamworks-node",
-                  "steamworks-sdk",
-                  "steamworks-ts",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Chipmunk C#",
-              "description": "C# implementation of the Chipmunk2D lib.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Advanced physics engine library based on Chipmunk in C#",
-                "homepage": null,
-                "id": 21375299,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2019-03-12T16:06:39Z",
-                "open_issues": 6,
-                "owner": "netonjm",
-                "repo": "ChipmunkSharp",
-                "stars": 86,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Jitter",
-              "description": "a fast and lightweight physics engine written in C#.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A cross-platform, realtime physics engine for all .NET apps.",
-                "homepage": null,
-                "id": 393951343,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2021-08-08T11:59:21Z",
-                "open_issues": 0,
-                "owner": "mattleibow",
-                "repo": "jitterphysics",
-                "stars": 47,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Mibo",
-              "description": "Elmish (MVU) F# game framework on raylib-cs or MonoGame.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": "https://angelmunoz.github.io/Mibo/",
-                "id": 1244019224,
-                "language": "F#",
-                "license": "Zlib",
-                "last_commit": "2026-10-20T21:13:33Z",
-                "open_issues": 1,
-                "owner": "AngelMunoz",
-                "repo": "Mibo",
-                "stars": 32,
-                "topics": [
-                  "dotnet",
-                  "framework",
-                  "fsharp",
-                  "fsharpgamedev",
-                  "gamedev",
-                  "monogame",
-                  "raylib",
-                  "raylib-cs"
-                ]
-              },
-              "first_seen": "2026-10-14T20:18:44.125Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Proof Engine",
-              "description": "Rust rendering and game engine where every visual is math: glyphs and particles moved by ODEs, strange attractors and force fields, with OpenGL post-processing and synth audio.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rust rendering and game engine where every visual is math: glyphs and particles driven by strange attractors, force fields and spring physics, with OpenGL post-FX, synth audio, a scripting VM and an egui scene editor.",
-                "homepage": "https://mattbusel.github.io/proof-engine/",
-                "id": 1190257819,
-                "language": "Rust",
-                "license": "MIT",
-                "last_commit": "2026-10-23T07:36:36Z",
-                "open_issues": 4,
-                "owner": "Mattbusel",
-                "repo": "proof-engine",
-                "stars": 31,
-                "topics": [
-                  "creative-coding",
-                  "egui",
-                  "game-engine",
-                  "gamedev",
-                  "generative-art",
-                  "opengl",
-                  "particles",
-                  "procedural-generation",
-                  "rendering",
-                  "rust",
-                  "simulation",
-                  "strange-attractors"
-                ]
-              },
-              "first_seen": "2026-10-24T18:58:21.741Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Lums",
-              "description": "A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A flexible and powerful game making library",
-                "homepage": null,
-                "id": 19220878,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2015-10-02T02:53:39Z",
-                "open_issues": 0,
-                "owner": "Lums-proj",
-                "repo": "Lums",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Juno",
-              "description": "Clean and lightweight 2D game framework written in TypeScript",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Juno is a simple and lightweight 2D game framework written in TypeScript for making tiny pixel style HTML5 Games",
-                "homepage": null,
-                "id": 147010775,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2020-08-09T11:46:37Z",
-                "open_issues": 0,
-                "owner": "digitsensitive",
-                "repo": "juno",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: asimov-ts",
-              "description": "A type safe (as much as possible) engine for the web written in TypeScript.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A game engine for the web using TypeScript.",
-                "homepage": null,
-                "id": 601961017,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2023-03-02T02:56:10Z",
-                "open_issues": 0,
-                "owner": "pedrozaalex",
-                "repo": "asimov-ts",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: MINX",
-              "description": "Open Source 2D game framework written in C++ (to the style of XNA)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A graphics and input wrapper library for C++",
-                "homepage": null,
-                "id": 11412135,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2015-02-06T17:08:36Z",
-                "open_issues": 6,
-                "owner": "GearChicken",
-                "repo": "MINX",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: 6502 Unit Test executor",
-              "description": "A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A cross-platform unit testing tool for MOS 6502 assembly",
-                "homepage": null,
-                "id": 464585208,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-10-26T06:36:31Z",
-                "open_issues": 3,
-                "owner": "AsaiYusuke",
-                "repo": "6502_test_executor",
-                "stars": 13,
-                "topics": [
-                  "6502",
-                  "6502-emulation",
-                  "assembly",
-                  "assembly-6502",
-                  "coverage",
-                  "coveralls",
-                  "cross-platform",
-                  "json-schema",
-                  "lcov",
-                  "nes-dev",
-                  "unit-testing"
-                ]
-              },
-              "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Parlour",
-              "description": "Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cozy browser card games. Play Blitz (31) and Wild solo against bots, or with friends over a room code — no accounts, no servers, no install. Built on a deterministic TypeScript card-game engine.",
-                "homepage": "https://parlour.cards",
-                "id": 1344009999,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-29T00:17:45Z",
-                "open_issues": 0,
-                "owner": "braedonsaunders",
-                "repo": "parlour",
-                "stars": 6,
-                "topics": [
-                  "browser-game",
-                  "card-game",
-                  "deterministic",
-                  "game-development",
-                  "game-engine",
-                  "indie-game",
-                  "monorepo",
-                  "multiplayer",
-                  "nextjs",
-                  "nostr",
-                  "offline-first",
-                  "p2p",
-                  "react",
-                  "serverless",
-                  "tailwindcss",
-                  "thirty-one",
-                  "typescript",
-                  "uno",
-                  "vercel",
-                  "webrtc"
-                ]
-              },
-              "first_seen": "2026-09-23T19:47:22.952Z"
             }
           ],
           "description": null,
@@ -2389,11 +2098,11 @@
                 "id": 959123498,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T18:23:46Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-28T20:38:04Z",
+                "open_issues": 57,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4537,
+                "stars": 4545,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -2472,48 +2181,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
-            },
-            {
-              "node_type": "item",
-              "title": ":tada: Glitchless",
-              "description": "Open-source game observability for Three.js, Phaser, Unity, Godot, Unreal and GameMaker: frame times with hitch causes, crashes, where players quit and player bug reports, plus an MCP server so coding agents can read the data and fix what players hit.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source game observability and analytics for Unity, Godot, Unreal, Three.js, Phaser and GameMaker: stutters, crashes, custom metrics and per-game dashboards, with an MCP server and playtest bots so coding agents can fix what players hit",
-                "homepage": "https://www.glitchless.gg",
-                "id": 1427928386,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-10-27T20:13:37Z",
-                "open_issues": 0,
-                "owner": "glitchless-gg",
-                "repo": "glitchless",
-                "stars": 1,
-                "topics": [
-                  "ai-agents",
-                  "claude-code",
-                  "crash-reporting",
-                  "game-analytics",
-                  "game-observability",
-                  "game-telemetry",
-                  "gamedev",
-                  "godot",
-                  "mcp",
-                  "mcp-server",
-                  "observability",
-                  "opentelemetry",
-                  "performance",
-                  "phaser",
-                  "playtesting",
-                  "telemetry",
-                  "threejs",
-                  "unity",
-                  "unreal-engine",
-                  "web-games"
-                ]
-              },
-              "first_seen": "2026-10-23T20:03:55.840Z"
             }
           ],
           "description": null,
@@ -2571,7 +2238,7 @@
                 "open_issues": 46,
                 "owner": "BleuBleu",
                 "repo": "FamiStudio",
-                "stars": 1966,
+                "stars": 1967,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2592,7 +2259,7 @@
                 "open_issues": 141,
                 "owner": "Dn-Programming-Core-Management",
                 "repo": "Dn-FamiTracker",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "0cc-famitracker",
                   "chiptune",
@@ -2618,7 +2285,7 @@
                 "id": 1365054768,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T20:50:00Z",
+                "last_commit": "2026-10-27T22:03:43Z",
                 "open_issues": 1,
                 "owner": "Stuyk",
                 "repo": "slip-sound",
@@ -2694,7 +2361,7 @@
                 "open_issues": 15,
                 "owner": "id-Software",
                 "repo": "DOOM",
-                "stars": 19807,
+                "stars": 19814,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2712,10 +2379,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-25T18:34:34Z",
-                "open_issues": 1611,
+                "open_issues": 1616,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17673,
+                "stars": 17679,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -2748,11 +2415,11 @@
                 "id": 128430621,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T20:42:58Z",
-                "open_issues": 402,
+                "last_commit": "2026-10-28T10:45:19Z",
+                "open_issues": 405,
                 "owner": "OpenTTD",
                 "repo": "OpenTTD",
-                "stars": 8433,
+                "stars": 8434,
                 "topics": [
                   "game",
                   "isometric",
@@ -2779,7 +2446,7 @@
                 "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-III-Arena",
-                "stars": 8283,
+                "stars": 8285,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2821,7 +2488,7 @@
                 "open_issues": 6,
                 "owner": "jmechner",
                 "repo": "Prince-of-Persia-Apple-II",
-                "stars": 6906,
+                "stars": 6907,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2842,7 +2509,7 @@
                 "open_issues": 4,
                 "owner": "id-Software",
                 "repo": "Quake",
-                "stars": 6100,
+                "stars": 6102,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2860,10 +2527,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-27T15:37:18Z",
-                "open_issues": 170,
+                "open_issues": 181,
                 "owner": "NetHack",
                 "repo": "NetHack",
-                "stars": 3964,
+                "stars": 3965,
                 "topics": [
                   "c",
                   "game",
@@ -2909,7 +2576,7 @@
                 "open_issues": 3,
                 "owner": "id-Software",
                 "repo": "Quake-2",
-                "stars": 3361,
+                "stars": 3362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -2948,10 +2615,10 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-10-27T10:47:30Z",
-                "open_issues": 210,
+                "open_issues": 205,
                 "owner": "FakeFishGames",
                 "repo": "Barotrauma",
-                "stars": 2258,
+                "stars": 2260,
                 "topics": [
                   "game",
                   "monogame",
@@ -3001,6 +2668,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
+            },
+            {
+              "node_type": "item",
+              "title": ":tada: Duke Nukem 3D: Atomic Edition",
+              "description": "fabiensanglard/vanilla_duke3D",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the original \"Build\" engine code released by Ken Silverman.",
+                "homepage": null,
+                "id": 7780549,
+                "language": "C++",
+                "license": null,
+                "last_commit": "2013-01-23T18:15:53Z",
+                "open_issues": 0,
+                "owner": "fabiensanglard",
+                "repo": "vanilla_duke3D",
+                "stars": 128,
+                "topics": []
+              },
+              "first_seen": "2026-10-28T21:17:19.393Z"
             }
           ],
           "description": null,
@@ -3031,7 +2719,7 @@
                 "open_issues": 31,
                 "owner": "miloyip",
                 "repo": "game-programmer",
-                "stars": 18734,
+                "stars": 18736,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:39:55.917Z"
@@ -3059,7 +2747,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19991,
+                "stars": 19996,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -3095,7 +2783,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:55:43.871Z",
+    "last_updated": "2026-10-28T21:17:19.393Z",
     "original_repository_info": {
       "archived": false,
       "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
@@ -3103,11 +2791,11 @@
       "id": 21958186,
       "language": "Markdown",
       "license": "MIT",
-      "last_commit": "2026-10-27T19:21:21Z",
-      "open_issues": 49,
+      "last_commit": "2026-10-28T18:23:52Z",
+      "open_issues": 44,
       "owner": "ellisonleao",
       "repo": "magictools",
-      "stars": 17604,
+      "stars": 17614,
       "topics": [
         "art",
         "awesome",
@@ -3127,7 +2815,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "288d1fe407c8dd15ac869ce3ba73ee580fb4df87",
+    "original_repository_sha": "2952ed78b2c53f94e102a880580d83303c6641d8",
     "enhanced_repository": "enhansome/enhansome-magictools",
     "enhanced_repository_description": null,
     "title": "Awesome magictools with stars"
