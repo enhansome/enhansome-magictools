@@ -70,7 +70,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Assets/Placeholders
 
-* :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) ⭐ 3,408 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13 - A Huge library of matcap textures in PNG and ZMT, organized by color.
+* :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) ⭐ 3,409 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13 - A Huge library of matcap textures in PNG and ZMT, organized by color.
 * :free: [2D Cartoon Mobile Game UI Pack](https://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * :free: [3DTexel](https://3dtexel.com/free-library/) - 1,600+ handmade CC0 assets: seamless PBR materials (incl. stylized), HDRIs, decals, 3D models and IES lights. A free account may be required for some downloads.
 * :free: [420 Pixel Art Icons for RPGs](https://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
@@ -97,6 +97,7 @@ To get your pull request accepted, your link must follow these rules:
 * :free: [Reiner's Tilesets](https://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 * :free: [SceneCrate Free 3D Game Assets](https://scenecrate.com/free-3d-game-assets) - Nine walkable CC0 1.0 3D browser-game scenes (buildings, heightfield terrain, and static props) in two measured GLB tiers, with JSON colliders and offline Three.js examples; no account required.
 * :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
+* :free: [SpriteForge Image to Pixel Art](https://www.spriteforge.tech/image-to-pixel-art) - Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.
 * :free: [SpriteLib](https://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * :free: [StickyPNG](https://www.stickpng.com/) - Free transparent PNG images.
 * :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
@@ -106,7 +107,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Spritesheet Tools
 
-* :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) ⭐ 25,558 | 🐛 339 | 🌐 Java | 📅 2026-11-19 - Texture Packer built into Libgdx
+* :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) ⭐ 25,560 | 🐛 339 | 🌐 Java | 📅 2026-11-19 - Texture Packer built into Libgdx
 * :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) ⭐ 254 | 🐛 9 | 🌐 C++ | 📅 2016-11-05 - High efficient and fast 2D bin packing tool
 * :free: [AnimGen Free Sprite Sheet Tools](https://animgen.com/tools) - Browser tools that convert GIFs to sprite sheets and back, slice grid sheets or auto-extract sprites from sheets with no grid, export PNG sequences, and remove solid or green-screen GIF backgrounds. Files stay on your device; sheets come with Aseprite-format JSON.
 * :moneybag: [Border Kit for Tiled](https://frenkitchio.itch.io/border-kit-for-tiled) - Python CLI to extrude PNG tilesets and update external TSX files while preserving tile IDs, animations and collision objects.
@@ -138,7 +139,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Texture Tools
 
-* :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) ⭐ 861 | 🐛 2 | 🌐 Rust | 📅 2026-10-20 - Generate normal maps from pixel art sprites and animations.
+* :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) ⭐ 864 | 🐛 2 | 🌐 Rust | 📅 2026-10-20 - Generate normal maps from pixel art sprites and animations.
 * :money\_with\_wings: [DDS Tools](https://ddstools.com/) - Browser-based DDS texture toolkit with a free viewer for mipmaps, channels, cubemap faces and texture metadata. Converts images to DDS and DDS to PNG or JPG locally, with compression, mipmap and normal-map settings.
 * :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 * :money\_with\_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
@@ -147,6 +148,7 @@ To get your pull request accepted, your link must follow these rules:
 * :free: [Normal Map Bench](https://normalmapbench.com/) - Generate tangent-space normal maps for game textures from height images in the browser, with a live lighting preview and OpenGL or DirectX PNG export.
 * :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 * :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
+* :free: [SpriteForge Pixel Art Normal Map](https://www.spriteforge.tech/pixel-art-normal-map) - Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.
 
 #### Character Generators
 
@@ -156,7 +158,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Tile/Level Editors
 
-* :tada: [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 6,317 | 🐛 316 | 🌐 GDScript | 📅 2026-11-11 - procedural texture creator made in Godot
+* :tada: [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 6,328 | 🐛 316 | 🌐 GDScript | 📅 2026-11-11 - procedural texture creator made in Godot
 * :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) ⭐ 795 | 🐛 145 | 🌐 Java | 📅 2021-11-04 - a 2D level and UI editor with an engine agnostic philosophy.
 * :moneybag: [AutoTileGen](https://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 * :money\_with\_wings: [GameShipKit Autotile Generator](https://gameshipkit.com/tools/autotile-generator/) - Make blob and RPG Maker style autotiles from two textures, with Godot 4 and Tiled tilesets.
@@ -170,7 +172,7 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Animation
 
-* :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) ⭐ 1,453 | 🐛 75 | 🌐 Game Maker Language | 📅 2026-11-24 - Powerful node-based VFX editor for pixel art
+* :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) ⭐ 1,454 | 🐛 75 | 🌐 Game Maker Language | 📅 2026-11-25 - Powerful node-based VFX editor for pixel art
 * :moneybag: [Animate4Me](https://animate4me.com/) - Turns a text prompt or an image into a Spine 4.2 animation with bones and weighted meshes for 2D game symbols, objects and characters; previews in the browser and exports skeleton.json, atlas and PNG pages.
 * :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
 * :money\_with\_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
@@ -188,9 +190,9 @@ To get your pull request accepted, your link must follow these rules:
 
 #### Vector/Image Editor
 
-* :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) ⭐ 3,594 | 🐛 1 | 🌐 Rust | 📅 2026-10-20
+* :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) ⭐ 3,599 | 🐛 1 | 🌐 Rust | 📅 2026-10-20
 * :moneybag: [Pixen](https://github.com/Pixen/Pixen) ⭐ 932 | 🐛 0 | 📅 2016-09-18 - Pixel Art Editor for OSX
-* :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source](https://github.com/klad-app/klad) ⭐ 343 | 🐛 3 | 🌐 Rust | 📅 2026-11-24
+* :money\_with\_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source](https://github.com/klad-app/klad) ⭐ 344 | 🐛 3 | 🌐 Rust | 📅 2026-11-25
 * :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 * :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 * :money\_with\_wings: [Aseprite](https://www.aseprite.org/) - animated sprite editor & pixel art tool.
@@ -213,9 +215,11 @@ To get your pull request accepted, your link must follow these rules:
 * :moneybag: [Pixelmator](https://www.pixelmator.com) - Full-featured image editing app for the Mac
 * :tada: [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open source pixel art editor with animation support, made with Godot.
 * :moneybag: [PyxelEdit](https://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+* :money\_with\_wings: [RBXGFX](https://rbxgfx.com/) - AI generator for 1920x1080 Roblox game thumbnails and 512x512 icons that produces multiple distinct compositions per request, plus free browser-based Roblox image resizer and safe-zone preview utilities (5 free signup credits; paid plans available; not affiliated with Roblox Corporation).
 * :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 * :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 * :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
+* :free: [SpriteForge Pixel Art Maker](https://www.spriteforge.tech/pixel-art-maker) - Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.
 * :free: [Spritemate](https://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 * :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser.
 * :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
@@ -233,6 +237,7 @@ To get your pull request accepted, your link must follow these rules:
 * :tada: [Inca](https://incacad.com) - Free, open-source 3D modeling, animation and rendering app that works like Maya 2020, with OBJ, FBX, glTF and STL import.
 * :free: [MakeHuman](http://www.makehumancommunity.org/)
 * :moneybag: [Maya](https://www.autodesk.com/products/maya/overview)
+* :free: [Mint Polycount Checker](https://mint.gg/polycount-checker) - Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.
 * :moneybag: [modo](https://www.foundry.com/products/modo)
 * :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 * :money\_with\_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
@@ -263,34 +268,34 @@ To get your pull request accepted, your link must follow these rules:
 
 ### Engines and Frameworks
 
-* :tada: [Dear Imgui](https://github.com/ocornut/imgui/) ⭐ 77,234 | 🐛 1,211 | 🌐 C++ | 📅 2026-11-24 - A bloat-free immediate mode GUI for C++ with minimal dependencies.
-* :tada: [Pyxel](https://github.com/kitao/pyxel) ⭐ 18,674 | 🐛 2 | 🌐 Rust | 📅 2026-11-23 - a retro game engine for Python.
-* :tada: [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,666 | 🐛 66 | 🌐 C++ | 📅 2026-11-24 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-* :tada: [Bullet](https://github.com/bulletphysics/bullet3) ⭐ 14,894 | 🐛 444 | 🌐 C++ | 📅 2026-10-09 - Real-time physics simulation.
-* :tada: [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,769 | 🐛 126 | 🌐 Go | 📅 2026-11-24 - Distributed server for social and realtime games and apps.
-* :tada: [EnTT](https://github.com/skypjack/entt) ⭐ 13,287 | 🐛 12 | 🌐 C++ | 📅 2026-11-24 - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
-* :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) ⭐ 12,501 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-30 - State management and multiplayer networking for turn-based games.
-* :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,529 | 🐛 327 | 🌐 C | 📅 2026-11-05 - A single-header ANSI C immediate mode cross-platform GUI library.
+* :tada: [Dear Imgui](https://github.com/ocornut/imgui/) ⭐ 77,253 | 🐛 1,211 | 🌐 C++ | 📅 2026-11-24 - A bloat-free immediate mode GUI for C++ with minimal dependencies.
+* :tada: [Pyxel](https://github.com/kitao/pyxel) ⭐ 18,676 | 🐛 2 | 🌐 Rust | 📅 2026-11-23 - a retro game engine for Python.
+* :tada: [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,670 | 🐛 66 | 🌐 C++ | 📅 2026-11-24 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* :tada: [Bullet](https://github.com/bulletphysics/bullet3) ⭐ 14,900 | 🐛 444 | 🌐 C++ | 📅 2026-10-09 - Real-time physics simulation.
+* :tada: [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,777 | 🐛 123 | 🌐 Go | 📅 2026-11-25 - Distributed server for social and realtime games and apps.
+* :tada: [EnTT](https://github.com/skypjack/entt) ⭐ 13,295 | 🐛 12 | 🌐 C++ | 📅 2026-11-25 - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
+* :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) ⭐ 12,499 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-30 - State management and multiplayer networking for turn-based games.
+* :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,531 | 🐛 327 | 🌐 C | 📅 2026-11-05 - A single-header ANSI C immediate mode cross-platform GUI library.
 * :tada: [Flame](https://github.com/flame-engine/flame) ⭐ 10,824 | 🐛 87 | 🌐 Dart | 📅 2026-11-24 - a minimalist game engine for Flutter
-* :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,376 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games
-* :tada: [FXGL](https://github.com/AlmasB/FXGL) ⭐ 4,879 | 🐛 146 | 🌐 Kotlin | 📅 2026-10-16 - A JavaFX/Kotlin game engine for Win/Mac/Linux.
-* :tada: [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,736 | 🐛 349 | 🌐 Rust | 📅 2026-08-18 - The cross-platform game engine in Rust.
-* :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,530 | 🐛 24 | 🌐 Batchfile | 📅 2026-11-24 - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
-* :tada: [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,915 | 🐛 35 | 🌐 C++ | 📅 2026-11-24 - 3D Game engine built on C++.
-* :tada: [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,619 | 🐛 298 | 🌐 C++ | 📅 2026-11-23 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+* :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) ⭐ 6,375 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01 - 3d javacript framework for building apps and games
+* :tada: [FXGL](https://github.com/AlmasB/FXGL) ⭐ 4,880 | 🐛 146 | 🌐 Kotlin | 📅 2026-10-16 - A JavaFX/Kotlin game engine for Win/Mac/Linux.
+* :tada: [macroquad](https://github.com/not-fl3/macroquad) ⭐ 4,737 | 🐛 352 | 🌐 Rust | 📅 2026-08-18 - The cross-platform game engine in Rust.
+* :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,530 | 🐛 24 | 🌐 Batchfile | 📅 2026-11-25 - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+* :tada: [LumixEngine](https://github.com/nem0/LumixEngine) ⭐ 3,915 | 🐛 35 | 🌐 C++ | 📅 2026-11-25 - 3D Game engine built on C++.
+* :tada: [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,620 | 🐛 298 | 🌐 C++ | 📅 2026-11-23 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 * :tada: [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) ⭐ 2,415 | 🐛 69 | 🌐 C | 📅 2026-05-05 - A fast and lightweight 2D game physics library.
 * :tada: [Rajawali](https://github.com/Rajawali/Rajawali) ⭐ 2,414 | 🐛 190 | 🌐 Java | 📅 2023-04-13 - Android OpenGL ES 2.0/3.0 Engine
-* :tada: [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,957 | 🐛 276 | 🌐 Java | 📅 2026-11-25 - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
-* :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) ⭐ 1,929 | 🐛 12 | 🌐 C | 📅 2026-11-21 - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
+* :tada: [Codename One](https://github.com/codenameone/CodenameOne) ⭐ 1,957 | 🐛 277 | 🌐 Java | 📅 2026-11-26 - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
+* :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) ⭐ 1,929 | 🐛 13 | 🌐 C | 📅 2026-11-21 - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 * :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) ⚠️ Archived - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 * :tada: [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,595 | 🐛 21 | 🌐 C++ | 📅 2026-09-09 - small open source 3D rendering engine.
-* :tada: [axys](https://github.com/axys1/axys) ⭐ 1,508 | 🐛 18 | 🌐 C++ | 📅 2026-11-24 - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
-* :money\_with\_wings: [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,377 | 🐛 157 | 🌐 F# | 📅 2026-11-24 - Functional 2D/3D game engine in F# (free for noncommercial use; paid commercial license).
+* :tada: [axys](https://github.com/axys1/axys) ⭐ 1,508 | 🐛 16 | 🌐 C++ | 📅 2026-11-25 - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+* :money\_with\_wings: [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,377 | 🐛 159 | 🌐 F# | 📅 2026-11-25 - Functional 2D/3D game engine in F# (free for noncommercial use; paid commercial license).
 * :tada: [DotRecast](https://github.com/ikpil/DotRecast) ⭐ 968 | 🐛 18 | 🌐 C# | 📅 2026-10-03 - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
-* :tada: [Supernova Engine](https://github.com/supernovaengine/supernova) ⭐ 957 | 🐛 14 | 🌐 C++ | 📅 2026-11-24 - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
+* :tada: [Supernova Engine](https://github.com/supernovaengine/supernova) ⭐ 960 | 🐛 14 | 🌐 C++ | 📅 2026-11-25 - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 * :tada: [Foster](https://github.com/FosterFramework/Foster) ⭐ 898 | 🐛 3 | 🌐 C# | 📅 2026-11-23 - A small cross-platform 2D game framework in C#.
-* :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) ⭐ 869 | 🐛 124 | 🌐 C++ | 📅 2026-07-09 - 2D Game Engine with Lua Scripting made on top of SFML !
-* :tada: [GameFrameX](https://github.com/GameFrameX/GameFrameX) ⭐ 776 | 🐛 6 | 🌐 C# | 📅 2026-10-29 - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
+* :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) ⭐ 868 | 🐛 124 | 🌐 C++ | 📅 2026-07-09 - 2D Game Engine with Lua Scripting made on top of SFML !
+* :tada: [GameFrameX](https://github.com/GameFrameX/GameFrameX) ⭐ 777 | 🐛 6 | 🌐 C# | 📅 2026-10-29 - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
 * :tada: [Grid](https://github.com/Planimeter/game-engine-2d) ⭐ 751 | 🐛 4 | 🌐 Lua | 📅 2022-10-03 - A multiplayer-first game engine for Lua.
 * :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) ⭐ 750 | 🐛 22 | 🌐 C# | 📅 2021-08-01 - a collision detection system with realistic physics responses.
 * :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) ⭐ 646 | 🐛 20 | 🌐 Java | 📅 2026-11-17 - Classic point and click adventure game engine and editor.
@@ -299,7 +304,7 @@ To get your pull request accepted, your link must follow these rules:
 * :tada: [iio.js](https://github.com/iioinc/iio.js) ⭐ 457 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-08 - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 * :tada: [Dash](https://github.com/Circular-Studios/Dash) ⭐ 422 | 🐛 33 | 🌐 D | 📅 2020-12-18 - A free and open 3D game engine written in D.
 * :tada: [ENGi](https://github.com/ajhager/engi) ⭐ 392 | 🐛 0 | 🌐 Go | 📅 2016-05-29 - A multi-platform 2D game library for Go.
-* :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) ⭐ 362 | 🐛 19 | 🌐 C# | 📅 2026-11-24 - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
+* :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) ⭐ 362 | 🐛 19 | 🌐 C# | 📅 2026-11-25 - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 * :tada: [Screen 13](https://github.com/attackgoat/screen-13) ⭐ 348 | 🐛 2 | 🌐 Rust | 📅 2026-11-21 - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 * :tada: [Rpgboss](https://github.com/rpgboss/rpgboss) ⭐ 325 | 🐛 174 | 🌐 Scala | 📅 2021-06-08 - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * :tada: [JNGL](https://github.com/jhasse/jngl) ⭐ 322 | 🐛 6 | 🌐 C++ | 📅 2026-11-18 - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
@@ -309,7 +314,7 @@ To get your pull request accepted, your link must follow these rules:
 * :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) ⭐ 226 | 🐛 10 | 🌐 C# | 📅 2026-10-01 - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
 * :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) ⭐ 216 | 🐛 17 | 🌐 TypeScript | 📅 2023-03-02 - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 * :tada: [Carimbo](https://github.com/willtobyte/carimbo) ⭐ 187 | 🐛 2 | 🌐 C++ | 📅 2026-06-23 - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly.
-* :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) ⭐ 175 | 🐛 11 | 🌐 GDScript | 📅 2026-10-27 – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
+* :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) ⭐ 177 | 🐛 11 | 🌐 GDScript | 📅 2026-10-27 – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
 * :tada: [Juno](https://github.com/rxi/juno) ⚠️ Archived - Framework for making 2D games with chunky pixels in Lua
 * :tada: [vectarine](https://github.com/vanyle/vectarine/) ⭐ 140 | 🐛 2 | 🌐 Luau | 📅 2026-11-13 - Vectarine is a cross-platform game engine focusing on fast prototyping and having fun. Write games using Luau and extend the engine with Rust modules.
 * :tada: [Allegro](https://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
@@ -417,10 +422,10 @@ To get your pull request accepted, your link must follow these rules:
 
 ### AI
 
-* :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 4,693 | 🐛 59 | 🌐 C# | 📅 2026-11-24 - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
-* :tada: [Genex](https://github.com/genex-games/genex-desktop) ⭐ 912 | 🐛 89 | 🌐 TypeScript | 📅 2026-11-24 - Open-source desktop app where AI agents set up Unreal Engine, Unity, Godot, Roblox or Three.js, build the game, play-test it and publish it to Mac, Windows, Linux and the web. Works with Claude Code, Codex, Antigravity (Gemini models), OpenCode or local models.
+* :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) ⭐ 4,698 | 🐛 60 | 🌐 C# | 📅 2026-11-24 - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
+* :tada: [Genex](https://github.com/genex-games/genex-desktop) ⭐ 912 | 🐛 92 | 🌐 TypeScript | 📅 2026-11-25 - Open-source desktop app where AI agents set up Unreal Engine, Unity, Godot, Roblox or Three.js, build the game, play-test it and publish it to Mac, Windows, Linux and the web. Works with Claude Code, Codex, Antigravity (Gemini models), OpenCode or local models.
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) ⚠️ Archived - C# behaviour tree library with a fluent API released under MIT.
-* :tada: [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) ⭐ 291 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
+* :tada: [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) ⭐ 292 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-24 - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
 * :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) ⭐ 177 | 🐛 11 | 🌐 C++ | 📅 2019-11-16 - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 * :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
 * :money\_with\_wings: [3DLoom](https://3dloom.com) - Image or text to textured 3D game assets, exported as GLB, FBX, OBJ or USDZ, with a low-poly mode for props. 20 free credits on sign-up and no subscription; the GLB, OBJ and FBX converters are free and need no account.
@@ -441,6 +446,7 @@ To get your pull request accepted, your link must follow these rules:
 * :money\_with\_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 * :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 * :money\_with\_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools\&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
+* :money\_with\_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
 * :money\_with\_wings: [Voidless](https://voidless.dev) - AI game assets: pixel art sprites from 32 to 384 px, sprite animation, 8-direction sprites, tilesets, 3D models, sound and music. Includes an MCP server so Claude Code or Cursor can generate art straight into a project. 60 free credits on sign-up, no subscription.
 * :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
 * :money\_with\_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
@@ -454,6 +460,7 @@ To get your pull request accepted, your link must follow these rules:
 * :free: [8-Bit Arcade SFX Free Lite](https://yetiancai.itch.io/8-bit-arcade-sfx-free-lite-24-sounds) - 24 free 8-bit sound effects (UI, coins, jumps, lasers, jingles) synthesized by code; free for commercial use, no attribution required.
 * :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 * :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
+* :money\_with\_wings: [CSAF Music Library](https://csaf.itch.io/music-library) - 2,618 royalty free game music tracks in 59 albums, OGG and editable MIDI, with a free demo of one full track from every album. Composed by code written with AI tools, with no generative audio model.
 * :money\_with\_wings: [CSAF Sound Library](https://csaf.itch.io/sound-library) - 13,315 royalty free game sound effects in 91 packs, WAV and OGG, with a free demo download. Every sound is synthesized in code with no samples or generative audio model; the code was written with AI tools.
 * :free: [DailySounds](https://dailysounds.org/?ref=magictools) - Searchable sound effects for games, with browser previews and downloadable audio; free for commercial projects under the DailySounds license.
 * :free: [Ember Audio Free Sampler](https://lidorxl.itch.io/ember-audio-free-sampler) - 30 game audio files in OGG, with one music track, one seamless ambience loop and one SFX from each of 10 settings (dungeon, cyberpunk, cozy farm, western, cosmic horror, tavern, sci-fi, feudal Japan, post-apocalypse, pirates); royalty-free for commercial use, no attribution required. AI-generated (Suno for music, Stable Audio Open for loops and SFX) and hand-curated.
@@ -465,15 +472,17 @@ To get your pull request accepted, your link must follow these rules:
 * :free: [Overture Free Game Music Sampler](https://csaf.itch.io/free-game-music-sampler) - 68 game music tracks from 34 albums (fantasy, retro, horror, science fiction, cozy) as OGG, 67 of them with loop points in the file, plus the MIDI source of every track; royalty free for commercial use, no credit required. Composed by code written with an AI assistant, no AI audio models.
 * :free: [PacDV](https://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * :free: [PulseLite UI SFX](https://bigshadex.itch.io/pulselite-ui-sfx-free) - 20 free UI sounds (clicks, hovers, confirms, errors, rewards) in WAV/OGG, procedurally synthesized with no samples or AI audio models, sounds CC BY 4.0, plus an optional Godot 4 drop-in script (MIT).
+* :money\_with\_wings: [RFTracks](https://rftracks.com/use-cases/gaming) - Royalty free music for games made with AI tools, filterable by mood, genre and tempo, MP3 downloads; free for commercial games with a credit link to RFTracks, paid plans without credit.
 * :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 * :free: [SoundBible.com](https://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 * :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
 
 ### Music and Audio Editors
 
-* :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,138 | 🐛 94 | 🌐 C++ | 📅 2026-09-10 - open source tracker for Mac/Linux/Windows platforms.
+* :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,139 | 🐛 95 | 🌐 C++ | 📅 2026-09-10 - open source tracker for Mac/Linux/Windows platforms.
 * :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) ⭐ 1,982 | 🐛 41 | 🌐 C# | 📅 2026-11-17 - FamiStudio NES Music Editor.
 * :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) ⭐ 541 | 🐛 144 | 🌐 C | 📅 2026-11-03 - free windows tracker for producing music for the NES/Famicom-systems.
+* :money\_with\_wings: [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).
 * :tada: [Audacity](https://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 * :free: [Audiosauna](https://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * :free: [Audiotool](https://www.audiotool.com/app) - Online music producer.
@@ -594,6 +603,7 @@ To get your pull request accepted, your link must follow these rules:
 * :money\_with\_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 * :money\_with\_wings: [HacknPlan](https://hacknplan.com/) - Project management for game developers
 * :money\_with\_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
+* :free: [Overheard Calendar](https://getoverheard.com/calendar/) - Submission deadlines for indie game festivals, showcases, awards, Steam events and funds, each checked on the organiser's page
 * :money\_with\_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
 * :free: [SteamScout Indie Dev Workbench](https://steamscout.sleepingmass.com/dev) - 30 free, no-login browser tools for Steam indie devs: 14-region pricing matrix (with Poland PLN fix), 30-day discount cooldown planner, W-8BEN tax & publisher deal calculators, local capsule resizer/previewer, BBCode editor, SteamPipe VDF generator, and 60-item pre-launch QA checklist.
 * :money\_with\_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
@@ -601,21 +611,21 @@ To get your pull request accepted, your link must follow these rules:
 
 ### Complete Game Sources
 
-* :tada: [Doom](https://github.com/id-Software/DOOM) ⭐ 19,954 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
-* :tada: [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,834 | 🐛 1,646 | 🌐 C# | 📅 2026-11-22
-* :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,531 | 🐛 399 | 🌐 C++ | 📅 2026-11-24
+* :tada: [Doom](https://github.com/id-Software/DOOM) ⭐ 19,959 | 🐛 15 | 🌐 C++ | 📅 2024-05-24
+* :tada: [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,836 | 🐛 1,647 | 🌐 C# | 📅 2026-11-22
+* :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 8,533 | 🐛 399 | 🌐 C++ | 📅 2026-11-25
 * :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ⭐ 8,336 | 🐛 3 | 🌐 C | 📅 2024-08-02
-* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) ⭐ 8,063 | 🐛 48 | 🌐 ActionScript | 📅 2026-11-19
-* :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ⭐ 6,926 | 🐛 6 | 🌐 Assembly | 📅 2024-09-27
-* :tada: [Quake](https://github.com/id-Software/Quake) ⭐ 6,143 | 🐛 5 | 🌐 C | 📅 2024-06-15
-* :tada: [NetHack](https://github.com/NetHack/NetHack) ⭐ 4,001 | 🐛 148 | 🌐 C | 📅 2026-11-24
-* :tada: [Doom 3](https://github.com/id-Software/DOOM-3) ⭐ 3,635 | 🐛 1 | 🌐 C++ | 📅 2015-09-03
-* :tada: [Quake 2](https://github.com/id-Software/Quake-2) ⭐ 3,378 | 🐛 3 | 🌐 C | 📅 2023-12-05
-* :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,575 | 🐛 1 | 📅 2012-02-06
-* :tada: [Barotrauma](https://github.com/Regalis11/Barotrauma) ⭐ 2,301 | 🐛 210 | 🌐 C# | 📅 2026-10-27
+* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) ⭐ 8,062 | 🐛 48 | 🌐 ActionScript | 📅 2026-11-19
+* :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ⭐ 6,927 | 🐛 6 | 🌐 Assembly | 📅 2024-09-27
+* :tada: [Quake](https://github.com/id-Software/Quake) ⭐ 6,146 | 🐛 5 | 🌐 C | 📅 2024-06-15
+* :tada: [NetHack](https://github.com/NetHack/NetHack) ⭐ 4,002 | 🐛 148 | 🌐 C | 📅 2026-11-25
+* :tada: [Doom 3](https://github.com/id-Software/DOOM-3) ⭐ 3,636 | 🐛 1 | 🌐 C++ | 📅 2015-09-03
+* :tada: [Quake 2](https://github.com/id-Software/Quake-2) ⭐ 3,379 | 🐛 3 | 🌐 C | 📅 2023-12-05
+* :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ⭐ 2,577 | 🐛 1 | 📅 2012-02-06
+* :tada: [Barotrauma](https://github.com/Regalis11/Barotrauma) ⭐ 2,302 | 🐛 211 | 🌐 C# | 📅 2026-10-27
 * :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios) ⭐ 1,579 | 🐛 6 | 🌐 Objective-C | 📅 2011-08-20
-* :tada: [SimCity](https://github.com/simhacker/micropolis) ⭐ 1,144 | 🐛 73 | 🌐 C | 📅 2026-11-10
-* :tada: [Duke Nukem 3D: Atomic Edition](https://github.com/fabiensanglard/vanilla_duke3D) ⭐ 128 | 🐛 0 | 🌐 C++ | 📅 2013-01-23
+* :tada: [SimCity](https://github.com/simhacker/micropolis) ⭐ 1,145 | 🐛 73 | 🌐 C | 📅 2026-11-10
+* :tada: [Duke Nukem 3D: Atomic Edition](https://github.com/fabiensanglard/vanilla_duke3D) ⭐ 129 | 🐛 0 | 🌐 C++ | 📅 2013-01-23
 
 ### Communities
 
@@ -648,7 +658,7 @@ To get your pull request accepted, your link must follow these rules:
 
 ### General Game Development
 
-* :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) ⭐ 18,761 | 🐛 31 | 🌐 Python | 📅 2024-03-28 A Study Path for Game Programmer :octocat:
+* :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) ⭐ 18,763 | 🐛 31 | 🌐 Python | 📅 2024-03-28 A Study Path for Game Programmer :octocat:
 * :money\_with\_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 * :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
@@ -659,10 +669,10 @@ To get your pull request accepted, your link must follow these rules:
 
 ### Computer Graphics
 
-* :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 20,071 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
+* :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 20,078 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
 * :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
